@@ -1,0 +1,19 @@
+# python 3.9
+# Core Data Science and Visualization
+numpy<2
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Deep Learning Framework
+# STRICTLY REQUIRED: TF 2.10 is the last version with native Windows GPU support.
+tensorflow==2.10
+
+# Image Processing
+opencv-python>=4.7.0
+
+# Machine Learning Utilities and Metrics
+scikit-learn>=1.2.2
+shap>=0.41.0
+
+# Optional
+ipython

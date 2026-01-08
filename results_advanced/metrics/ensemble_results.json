@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.9551986475063398,
+    "precision_macro": 0.9582923013796993,
+    "recall_macro": 0.9660183143287436,
+    "f1_macro": 0.9608689751104551,
+    "kappa": 0.9193290436800953,
+    "mcc": 0.9215493972792428,
+    "classification_report": "                      precision    recall  f1-score   support\n\n     Mild Impairment       0.90      0.98      0.94        83\n Moderate Impairment       1.00      1.00      1.00        12\n       No Impairment       0.94      1.00      0.97       640\nVery Mild Impairment       1.00      0.89      0.94       448\n\n            accuracy                           0.96      1183\n           macro avg       0.96      0.97      0.96      1183\n        weighted avg       0.96      0.96      0.95      1183\n"
+}
