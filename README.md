@@ -111,6 +111,7 @@ FORCE_CPU = False     # Override hardware selection
 -   **Email**: [rabbiawaheed395@gmail.com](mailto:rabbiawaheed395@gmail.com)
 
 **Dr. Muhammad Abrar**
+*Developer & Researcher*
 
 -   **GitHub**: [@Dr-Muhammad-Abrar](https://github.com/Dr-Muhammad-Abrar)
 -   **Email**: [m.abrar@uoh.edu.sa](mailto:m.abrar@uoh.edu.sa)
