@@ -110,6 +110,11 @@ FORCE_CPU = False     # Override hardware selection
 -   **GitHub**: [@rabbia67](https://github.com/rabbia67)
 -   **Email**: [rabbiawaheed395@gmail.com](mailto:rabbiawaheed395@gmail.com)
 
+**Dr. Muhammad Abrar**
+
+-   **GitHub**: [@Dr-Muhammad-Abrar](https://github.com/Dr-Muhammad-Abrar)
+-   **Email**: [m.abrar@uoh.edu.sa](mailto:m.abrar@uoh.edu.sa)
+
 ---
 
 *Developed for Advanced Medical Imaging Analysis.*
