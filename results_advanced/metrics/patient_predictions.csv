@@ -1,0 +1,1184 @@
+Filename,True_Label,Predicted_Label,True_Class_Index,Predicted_Class_Index,Prob_Mild Impairment,Prob_Moderate Impairment,Prob_No Impairment,Prob_Very Mild Impairment
+Mild Impairment\24 (25).jpg,Mild Impairment,Mild Impairment,0,0,0.98857415,0.00013380262,0.008216423,0.0030756346
+Mild Impairment\24 (3).jpg,Mild Impairment,Mild Impairment,0,0,0.99204654,3.521989e-05,0.007390607,0.00052767526
+Mild Impairment\24 (8).jpg,Mild Impairment,Mild Impairment,0,0,0.9998395,5.1890256e-06,0.000121405115,3.38537e-05
+Mild Impairment\24.jpg,Mild Impairment,Mild Impairment,0,0,0.9993683,3.1150295e-05,0.0003984783,0.00020214375
+Mild Impairment\25 (15).jpg,Mild Impairment,Mild Impairment,0,0,0.8678767,0.00012542125,0.13123403,0.0007638745
+Mild Impairment\25 (22).jpg,Mild Impairment,Mild Impairment,0,0,0.9999342,9.971733e-07,3.8968647e-05,2.5886082e-05
+Mild Impairment\25 (23).jpg,Mild Impairment,Mild Impairment,0,0,0.99996454,9.371859e-07,2.8697958e-05,5.8186956e-06
+Mild Impairment\25 (24).jpg,Mild Impairment,Mild Impairment,0,0,0.9990894,1.8993187e-05,0.00022588589,0.00066568656
+Mild Impairment\25 (25).jpg,Mild Impairment,Mild Impairment,0,0,0.9835655,7.323855e-05,0.011455893,0.0049052937
+Mild Impairment\25 (8).jpg,Mild Impairment,Mild Impairment,0,0,0.99964064,1.0466503e-05,0.00026342765,8.5401894e-05
+Mild Impairment\26 (15).jpg,Mild Impairment,Mild Impairment,0,0,0.9988076,4.127093e-05,0.00046476288,0.00068634766
+Mild Impairment\26 (18).jpg,Mild Impairment,Mild Impairment,0,0,0.99970424,7.333944e-05,7.010253e-05,0.00015227411
+Mild Impairment\26 (21).jpg,Mild Impairment,Mild Impairment,0,0,0.99982727,4.8121372e-05,8.0433885e-05,4.422528e-05
+Mild Impairment\26 (23).jpg,Mild Impairment,No Impairment,0,2,0.42931452,6.7917674e-05,0.5657932,0.0048243804
+Mild Impairment\26 (24).jpg,Mild Impairment,Mild Impairment,0,0,0.99772453,5.8487127e-05,0.0018082069,0.00040871874
+Mild Impairment\26 (25).jpg,Mild Impairment,Mild Impairment,0,0,0.9875763,0.0001696321,0.0034176982,0.008836313
+Mild Impairment\26 (3).jpg,Mild Impairment,Mild Impairment,0,0,0.99996537,4.419092e-06,1.7778846e-05,1.2468476e-05
+Mild Impairment\27 (14).jpg,Mild Impairment,Mild Impairment,0,0,0.99930894,4.6726716e-05,6.210474e-05,0.00058221864
+Mild Impairment\27 (7).jpg,Mild Impairment,Mild Impairment,0,0,0.99792993,3.0710813e-05,0.00037665124,0.0016626918
+Mild Impairment\28 (15).jpg,Mild Impairment,Mild Impairment,0,0,0.9983314,3.241463e-05,0.00065339083,0.0009827031
+Mild Impairment\28 (17).jpg,Mild Impairment,Mild Impairment,0,0,0.99938965,1.1599685e-05,0.00046430668,0.00013444111
+Mild Impairment\28 (19).jpg,Mild Impairment,Mild Impairment,0,0,0.8627485,0.00034659056,0.06481302,0.07209189
+Mild Impairment\28 (24).jpg,Mild Impairment,Mild Impairment,0,0,0.9880459,2.769926e-05,0.011736058,0.00019044252
+Mild Impairment\28 (25).jpg,Mild Impairment,Mild Impairment,0,0,0.9900386,0.00010850506,0.0046105506,0.005242274
+Mild Impairment\28 (28).jpg,Mild Impairment,Mild Impairment,0,0,0.97046673,3.0295929e-05,0.029207487,0.0002954593
+Mild Impairment\28 (9).jpg,Mild Impairment,Mild Impairment,0,0,0.86985713,0.00031593832,0.0031014148,0.1267255
+Mild Impairment\29 (19).jpg,Mild Impairment,Mild Impairment,0,0,0.9732603,0.000116853524,0.0025306405,0.024092132
+Mild Impairment\29 (4).jpg,Mild Impairment,Mild Impairment,0,0,0.99860555,8.134632e-06,0.00012344321,0.0012628782
+Mild Impairment\3 (24).jpg,Mild Impairment,Mild Impairment,0,0,0.8485837,0.0007084772,0.13006668,0.02064115
+Mild Impairment\3 (5).jpg,Mild Impairment,Mild Impairment,0,0,0.99955714,7.166783e-06,4.761996e-05,0.0003880952
+Mild Impairment\30 (20).jpg,Mild Impairment,Mild Impairment,0,0,0.9997066,6.8140557e-06,0.0002227114,6.381881e-05
+Mild Impairment\30 (22).jpg,Mild Impairment,Mild Impairment,0,0,0.9982268,4.3214903e-05,0.0012888351,0.0004410997
+Mild Impairment\30 (26).jpg,Mild Impairment,Mild Impairment,0,0,0.9996608,7.6480155e-06,0.00026437436,6.725498e-05
+Mild Impairment\30 (4).jpg,Mild Impairment,Mild Impairment,0,0,0.99982184,5.191098e-06,4.504132e-05,0.00012792397
+Mild Impairment\30 (7).jpg,Mild Impairment,Mild Impairment,0,0,0.9991099,2.1638767e-05,0.00049441884,0.00037398265
+Mild Impairment\31 (14).jpg,Mild Impairment,Mild Impairment,0,0,0.99990636,8.185592e-06,1.9863939e-05,6.554097e-05
+Mild Impairment\31 (17).jpg,Mild Impairment,Mild Impairment,0,0,0.998806,1.125467e-05,0.0010461744,0.00013658724
+Mild Impairment\31 (21).jpg,Mild Impairment,Mild Impairment,0,0,0.97438365,0.0004497186,0.009806932,0.015359702
+Mild Impairment\31 (23).jpg,Mild Impairment,Mild Impairment,0,0,0.93219215,0.00014277545,0.04010474,0.027560394
+Mild Impairment\31 (28).jpg,Mild Impairment,Mild Impairment,0,0,0.9877375,6.944383e-05,0.010616223,0.0015768025
+Mild Impairment\31 (8).jpg,Mild Impairment,Mild Impairment,0,0,0.99966383,7.3414894e-06,0.0002016807,0.00012712736
+Mild Impairment\31 (9).jpg,Mild Impairment,Mild Impairment,0,0,0.6000831,0.00012994652,0.3867486,0.013038325
+Mild Impairment\31.jpg,Mild Impairment,Mild Impairment,0,0,0.9991827,5.4702987e-06,3.7645797e-05,0.00077413354
+Mild Impairment\32 (11).jpg,Mild Impairment,Mild Impairment,0,0,0.99810207,0.000106931315,0.001091348,0.0006996357
+Mild Impairment\32 (14).jpg,Mild Impairment,Mild Impairment,0,0,0.9998196,2.863653e-05,3.674294e-05,0.000114995324
+Mild Impairment\32 (16).jpg,Mild Impairment,Very Mild Impairment,0,3,0.21640043,0.00050555175,0.31498006,0.46811396
+Mild Impairment\32 (20).jpg,Mild Impairment,Mild Impairment,0,0,0.99757403,3.638946e-05,0.0005449018,0.0018446064
+Mild Impairment\32 (24).jpg,Mild Impairment,Mild Impairment,0,0,0.9964625,7.941805e-05,0.0012906635,0.0021673343
+Mild Impairment\32 (6).jpg,Mild Impairment,Mild Impairment,0,0,0.9968273,0.00032831705,0.0009777695,0.0018666001
+Mild Impairment\4 (14).jpg,Mild Impairment,Mild Impairment,0,0,0.98646945,0.00012336692,0.008947751,0.004459408
+Mild Impairment\4 (2).jpg,Mild Impairment,Mild Impairment,0,0,0.9465904,1.344758e-05,8.862163e-05,0.053307474
+Mild Impairment\4 (26).jpg,Mild Impairment,Mild Impairment,0,0,0.9992566,1.993284e-05,0.00022549978,0.00049794326
+Mild Impairment\4 (9).jpg,Mild Impairment,Mild Impairment,0,0,0.99989545,6.2614467e-06,5.7580775e-05,4.0587165e-05
+Mild Impairment\5 (15).jpg,Mild Impairment,Mild Impairment,0,0,0.99937785,8.433701e-06,0.00015465009,0.00045907748
+Mild Impairment\5 (20).jpg,Mild Impairment,Mild Impairment,0,0,0.9916872,2.866398e-05,0.000999245,0.0072849332
+Mild Impairment\5 (26).jpg,Mild Impairment,Mild Impairment,0,0,0.9978548,3.3445533e-05,0.000463888,0.0016478322
+Mild Impairment\5 (5).jpg,Mild Impairment,Mild Impairment,0,0,0.99931943,2.0765288e-05,0.0002858156,0.000373948
+Mild Impairment\6 (14).jpg,Mild Impairment,Mild Impairment,0,0,0.98904514,0.000105341525,0.005432831,0.005416698
+Mild Impairment\6 (16).jpg,Mild Impairment,Mild Impairment,0,0,0.9870219,9.843356e-05,0.012546344,0.0003333087
+Mild Impairment\6 (17).jpg,Mild Impairment,Mild Impairment,0,0,0.97876436,0.00015973326,0.004949006,0.016126897
+Mild Impairment\6 (21).jpg,Mild Impairment,Mild Impairment,0,0,0.9709631,0.0004890905,0.0010625159,0.027485305
+Mild Impairment\6 (28).jpg,Mild Impairment,Mild Impairment,0,0,0.99376565,4.052709e-05,0.00048738476,0.005706451
+Mild Impairment\6 (3).jpg,Mild Impairment,Mild Impairment,0,0,0.99845254,4.9327075e-05,0.00058554433,0.0009125391
+Mild Impairment\6 (7).jpg,Mild Impairment,Mild Impairment,0,0,0.9807808,0.00011198867,0.00077247334,0.018334726
+Mild Impairment\7 (12).jpg,Mild Impairment,Mild Impairment,0,0,0.9987068,5.662138e-05,0.00072236825,0.0005141728
+Mild Impairment\7 (16).jpg,Mild Impairment,Mild Impairment,0,0,0.9622952,0.00015434432,0.03678409,0.00076639093
+Mild Impairment\7 (2).jpg,Mild Impairment,Mild Impairment,0,0,0.9989705,8.161161e-05,0.00030736713,0.0006404701
+Mild Impairment\7 (26).jpg,Mild Impairment,Mild Impairment,0,0,0.9996015,1.4685257e-05,0.00019974099,0.00018406159
+Mild Impairment\7 (4).jpg,Mild Impairment,Mild Impairment,0,0,0.9998455,8.420055e-06,3.7761125e-05,0.00010826341
+Mild Impairment\8 (10).jpg,Mild Impairment,Mild Impairment,0,0,0.8591827,8.17839e-05,0.13608527,0.004650214
+Mild Impairment\8 (13).jpg,Mild Impairment,Mild Impairment,0,0,0.9603712,0.00019990094,0.0013930856,0.038035803
+Mild Impairment\8 (15).jpg,Mild Impairment,Mild Impairment,0,0,0.9990837,2.5918987e-05,0.00014016862,0.00075016136
+Mild Impairment\8 (18).jpg,Mild Impairment,Mild Impairment,0,0,0.99356806,5.7424517e-05,0.005597172,0.00077738194
+Mild Impairment\8 (21).jpg,Mild Impairment,Mild Impairment,0,0,0.95223045,0.0004270142,0.036181845,0.011160687
+Mild Impairment\8 (22).jpg,Mild Impairment,Mild Impairment,0,0,0.99969494,1.8347162e-05,0.00014654722,0.00014012649
+Mild Impairment\8 (28).jpg,Mild Impairment,Mild Impairment,0,0,0.85621727,0.00027968118,0.04686984,0.09663318
+Mild Impairment\8 (3).jpg,Mild Impairment,Mild Impairment,0,0,0.8780961,7.2790215e-05,0.12119061,0.00064048835
+Mild Impairment\8 (9).jpg,Mild Impairment,Mild Impairment,0,0,0.99957114,2.3211516e-05,9.927629e-05,0.00030639739
+Mild Impairment\8.jpg,Mild Impairment,Mild Impairment,0,0,0.9997066,3.1641765e-05,0.00013394692,0.00012775607
+Mild Impairment\9 (11).jpg,Mild Impairment,Mild Impairment,0,0,0.99317914,0.0001415676,0.005527281,0.0011520002
+Mild Impairment\9 (16).jpg,Mild Impairment,Mild Impairment,0,0,0.98908913,8.89945e-05,0.010577559,0.0002443084
+Mild Impairment\9 (2).jpg,Mild Impairment,Mild Impairment,0,0,0.7312927,0.0006481906,0.012475394,0.25558367
+Mild Impairment\9 (5).jpg,Mild Impairment,Mild Impairment,0,0,0.99998796,1.5534179e-06,3.1881796e-06,7.2713347e-06
+Moderate Impairment\12.jpg,Moderate Impairment,Moderate Impairment,1,1,4.701463e-05,0.9995419,0.00019643828,0.00021461002
+Moderate Impairment\13 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.11870693,0.77066934,0.01575173,0.09487202
+Moderate Impairment\14.jpg,Moderate Impairment,Moderate Impairment,1,1,4.1342897e-05,0.99706763,0.0011772371,0.0017137245
+Moderate Impairment\16 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.036536526,0.94206256,0.0066376873,0.014763251
+Moderate Impairment\17 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.009062567,0.8451956,0.13198753,0.013754305
+Moderate Impairment\17.jpg,Moderate Impairment,Moderate Impairment,1,1,3.4902303e-05,0.9970024,0.002811703,0.00015103296
+Moderate Impairment\18.jpg,Moderate Impairment,Moderate Impairment,1,1,0.00014807799,0.9944105,0.0051965453,0.00024479404
+Moderate Impairment\19.jpg,Moderate Impairment,Moderate Impairment,1,1,0.00021809647,0.9972577,0.0023116402,0.0002125673
+Moderate Impairment\22 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.017758917,0.98054963,0.0016025904,8.883241e-05
+Moderate Impairment\27 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.13859567,0.8583892,0.0026541478,0.00036100356
+Moderate Impairment\27.jpg,Moderate Impairment,Moderate Impairment,1,1,0.0020746822,0.96654654,0.009347943,0.022030767
+Moderate Impairment\9 (2).jpg,Moderate Impairment,Moderate Impairment,1,1,0.0043636393,0.9932021,0.0008317001,0.0016026091
+No Impairment\1 (16).jpg,No Impairment,No Impairment,2,2,0.02251863,0.00048699643,0.58257514,0.39441922
+No Impairment\1 (21).jpg,No Impairment,No Impairment,2,2,0.00010410702,4.4366883e-05,0.99828017,0.0015714153
+No Impairment\1 (28).jpg,No Impairment,No Impairment,2,2,0.00010587135,1.9810614e-05,0.99945575,0.0004185633
+No Impairment\1 (33).jpg,No Impairment,No Impairment,2,2,0.00053283205,3.899695e-05,0.99912244,0.00030569342
+No Impairment\1 (35).jpg,No Impairment,No Impairment,2,2,6.52104e-05,7.3028605e-06,0.99974364,0.000183761
+No Impairment\1 (47).jpg,No Impairment,No Impairment,2,2,0.00045113993,4.845516e-05,0.9922886,0.0072117834
+No Impairment\1 (56).jpg,No Impairment,No Impairment,2,2,2.4808245e-05,1.8668256e-05,0.9994628,0.0004937424
+No Impairment\1 (57).jpg,No Impairment,No Impairment,2,2,0.0014710056,0.00034132882,0.7879947,0.21019296
+No Impairment\1 (59).jpg,No Impairment,No Impairment,2,2,0.0006616112,3.3064014e-05,0.94406575,0.05523956
+No Impairment\1 (64).jpg,No Impairment,No Impairment,2,2,1.1040642e-05,4.942226e-06,0.9999,8.4082254e-05
+No Impairment\1 (68).jpg,No Impairment,No Impairment,2,2,3.4661258e-05,8.699212e-06,0.9996815,0.0002751547
+No Impairment\1 (72).jpg,No Impairment,No Impairment,2,2,0.00086280087,2.6947126e-05,0.79757583,0.20153442
+No Impairment\1 (73).jpg,No Impairment,No Impairment,2,2,0.009313349,0.00018858306,0.9876049,0.0028931971
+No Impairment\1 (74).jpg,No Impairment,No Impairment,2,2,0.00093169074,5.4832595e-05,0.9096786,0.08933492
+No Impairment\1 (77).jpg,No Impairment,No Impairment,2,2,8.135059e-05,2.8511658e-05,0.99941623,0.0004739264
+No Impairment\1 (82).jpg,No Impairment,No Impairment,2,2,1.9682726e-05,4.2813454e-06,0.9999231,5.288209e-05
+No Impairment\1 (87).jpg,No Impairment,No Impairment,2,2,2.569216e-05,1.3108559e-05,0.9998024,0.0001587176
+No Impairment\1 (9).jpg,No Impairment,No Impairment,2,2,0.19805709,0.00017914064,0.7953011,0.0064626625
+No Impairment\1 (93).jpg,No Impairment,No Impairment,2,2,6.6973866e-05,1.7476616e-05,0.99916345,0.00075204315
+No Impairment\10 (14).jpg,No Impairment,No Impairment,2,2,0.014776613,7.70309e-06,0.9845746,0.0006410157
+No Impairment\10 (16).jpg,No Impairment,No Impairment,2,2,0.2178045,0.000112817404,0.77746534,0.004617336
+No Impairment\10 (21).jpg,No Impairment,No Impairment,2,2,9.644589e-05,3.0324361e-05,0.9992728,0.0006003988
+No Impairment\10 (23).jpg,No Impairment,No Impairment,2,2,0.033266343,0.00012220434,0.9223727,0.04423872
+No Impairment\10 (29).jpg,No Impairment,No Impairment,2,2,0.00042383646,0.00014357398,0.99887896,0.0005536067
+No Impairment\10 (34).jpg,No Impairment,No Impairment,2,2,7.21148e-05,1.6437745e-05,0.99982584,8.554491e-05
+No Impairment\10 (42).jpg,No Impairment,No Impairment,2,2,0.00054008764,2.0793483e-05,0.99621594,0.0032232124
+No Impairment\10 (43).jpg,No Impairment,No Impairment,2,2,7.604598e-05,7.691566e-06,0.99944603,0.00047025076
+No Impairment\10 (46).jpg,No Impairment,No Impairment,2,2,0.00052583887,7.921919e-06,0.98413277,0.015333424
+No Impairment\10 (50).jpg,No Impairment,No Impairment,2,2,0.0005612026,2.7827171e-05,0.99925154,0.00015937394
+No Impairment\10 (52).jpg,No Impairment,No Impairment,2,2,0.00062382116,3.4303805e-05,0.9798937,0.019448234
+No Impairment\10 (6).jpg,No Impairment,No Impairment,2,2,0.000100987985,8.471974e-05,0.9993557,0.00045855678
+No Impairment\10 (61).jpg,No Impairment,No Impairment,2,2,0.001553647,6.700413e-05,0.9433546,0.055024754
+No Impairment\10 (67).jpg,No Impairment,No Impairment,2,2,0.31119403,0.00060161727,0.51031595,0.1778884
+No Impairment\10 (73).jpg,No Impairment,No Impairment,2,2,0.00039001257,6.834316e-05,0.9906918,0.008849843
+No Impairment\10 (80).jpg,No Impairment,No Impairment,2,2,0.000123543,1.2001093e-05,0.99394274,0.0059217606
+No Impairment\10 (9).jpg,No Impairment,No Impairment,2,2,0.0010736566,1.2290123e-05,0.9981942,0.00071979687
+No Impairment\10 (90).jpg,No Impairment,No Impairment,2,2,2.8805274e-05,1.853657e-06,0.99954873,0.00042059942
+No Impairment\11 (10).jpg,No Impairment,No Impairment,2,2,5.0962775e-05,8.971956e-06,0.99638593,0.0035541847
+No Impairment\11 (2).jpg,No Impairment,No Impairment,2,2,0.0005315341,2.9175353e-05,0.99522954,0.004209764
+No Impairment\11 (20).jpg,No Impairment,No Impairment,2,2,0.0007220133,2.369193e-05,0.9960655,0.0031887337
+No Impairment\11 (27).jpg,No Impairment,No Impairment,2,2,0.00019764579,3.661083e-06,0.99676436,0.0030342708
+No Impairment\11 (30).jpg,No Impairment,No Impairment,2,2,0.0001555834,3.4276854e-05,0.9987499,0.0010602335
+No Impairment\11 (31).jpg,No Impairment,No Impairment,2,2,0.0051224674,2.733774e-06,0.9943121,0.0005627838
+No Impairment\11 (33).jpg,No Impairment,No Impairment,2,2,0.00023163176,3.955389e-05,0.99907124,0.000657661
+No Impairment\11 (41).jpg,No Impairment,No Impairment,2,2,0.00019727368,1.2183054e-05,0.9990283,0.0007622695
+No Impairment\11 (44).jpg,No Impairment,No Impairment,2,2,0.000393336,2.355938e-05,0.84783137,0.15175171
+No Impairment\11 (51).jpg,No Impairment,No Impairment,2,2,0.079373404,0.0029085404,0.78892446,0.12879358
+No Impairment\11 (52).jpg,No Impairment,No Impairment,2,2,0.0019092057,4.6838748e-05,0.8175801,0.18046385
+No Impairment\11 (54).jpg,No Impairment,No Impairment,2,2,0.0002946531,2.1861877e-06,0.99435294,0.0053502484
+No Impairment\11 (55).jpg,No Impairment,No Impairment,2,2,0.0003860026,2.0753498e-06,0.9995079,0.00010401788
+No Impairment\11 (60).jpg,No Impairment,No Impairment,2,2,0.00019881767,4.9815662e-06,0.9993517,0.0004444966
+No Impairment\11 (63).jpg,No Impairment,No Impairment,2,2,0.00010233648,5.4462453e-05,0.999008,0.0008352554
+No Impairment\11 (64).jpg,No Impairment,No Impairment,2,2,0.00013325368,6.982466e-05,0.9987114,0.0010855015
+No Impairment\11 (66).jpg,No Impairment,No Impairment,2,2,0.00035121053,7.3382334e-06,0.9991109,0.00053053285
+No Impairment\11 (68).jpg,No Impairment,No Impairment,2,2,0.0001105295,1.6321404e-05,0.9993641,0.0005090274
+No Impairment\11 (72).jpg,No Impairment,No Impairment,2,2,0.0064197453,0.00010487383,0.9459513,0.04752417
+No Impairment\11 (91).jpg,No Impairment,No Impairment,2,2,7.482825e-05,2.1140939e-05,0.99939173,0.0005123183
+No Impairment\11 (94).jpg,No Impairment,No Impairment,2,2,0.00026964443,5.271607e-06,0.999279,0.00044613922
+No Impairment\11.jpg,No Impairment,No Impairment,2,2,0.00058175146,6.153171e-05,0.9849471,0.014409619
+No Impairment\12 (16).jpg,No Impairment,Mild Impairment,2,0,0.43643832,0.00029448164,0.3203642,0.24290292
+No Impairment\12 (2).jpg,No Impairment,No Impairment,2,2,0.00022165997,9.256017e-06,0.9985112,0.0012578352
+No Impairment\12 (24).jpg,No Impairment,No Impairment,2,2,0.00012450045,1.1247594e-06,0.99970496,0.00016943733
+No Impairment\12 (3).jpg,No Impairment,No Impairment,2,2,0.0014084161,0.0029639588,0.9755551,0.020072443
+No Impairment\12 (31).jpg,No Impairment,No Impairment,2,2,0.06977844,6.307804e-06,0.92900765,0.0012076672
+No Impairment\12 (4).jpg,No Impairment,No Impairment,2,2,0.00018635635,5.6173412e-05,0.9993388,0.00041873442
+No Impairment\12 (59).jpg,No Impairment,No Impairment,2,2,0.00012988233,1.3408411e-05,0.99930584,0.00055090885
+No Impairment\12 (64).jpg,No Impairment,No Impairment,2,2,0.00025313775,7.200675e-05,0.9987211,0.00095365633
+No Impairment\12 (68).jpg,No Impairment,No Impairment,2,2,5.5649183e-05,1.7947128e-05,0.9997657,0.00016073817
+No Impairment\12 (8).jpg,No Impairment,No Impairment,2,2,4.4573615e-05,5.228215e-06,0.99877226,0.0011779951
+No Impairment\12 (80).jpg,No Impairment,No Impairment,2,2,0.000114272974,3.0117106e-05,0.9984786,0.0013769437
+No Impairment\12 (83).jpg,No Impairment,No Impairment,2,2,0.00020473888,8.962936e-05,0.9979254,0.0017801307
+No Impairment\12 (89).jpg,No Impairment,No Impairment,2,2,0.00020805039,8.7819855e-05,0.9990762,0.00062793895
+No Impairment\12 (9).jpg,No Impairment,No Impairment,2,2,0.28105992,6.545034e-05,0.7164324,0.0024422482
+No Impairment\12 (91).jpg,No Impairment,No Impairment,2,2,0.00036428534,3.8933482e-05,0.9990107,0.00058610935
+No Impairment\12 (95).jpg,No Impairment,No Impairment,2,2,3.4211782e-05,1.5690077e-06,0.9998721,9.2087525e-05
+No Impairment\12 (99).jpg,No Impairment,No Impairment,2,2,0.0014842605,0.0002197676,0.9963633,0.0019326821
+No Impairment\13 (100).jpg,No Impairment,No Impairment,2,2,0.054672193,0.0021620223,0.8722997,0.0708661
+No Impairment\13 (14).jpg,No Impairment,No Impairment,2,2,0.022704152,1.1965244e-05,0.97616655,0.0011173326
+No Impairment\13 (21).jpg,No Impairment,No Impairment,2,2,0.00033370746,1.41268665e-05,0.9993881,0.0002640611
+No Impairment\13 (26).jpg,No Impairment,No Impairment,2,2,8.193116e-05,2.2565728e-05,0.9996208,0.00027470462
+No Impairment\13 (27).jpg,No Impairment,No Impairment,2,2,0.00014373883,1.3582949e-06,0.9978589,0.001996012
+No Impairment\13 (32).jpg,No Impairment,No Impairment,2,2,0.003169665,3.801809e-05,0.9863526,0.010439664
+No Impairment\13 (38).jpg,No Impairment,No Impairment,2,2,0.00025104932,3.043291e-05,0.9991962,0.0005223804
+No Impairment\13 (42).jpg,No Impairment,No Impairment,2,2,0.0010711204,1.0705872e-05,0.997485,0.0014332448
+No Impairment\13 (45).jpg,No Impairment,No Impairment,2,2,0.020047784,0.000101551515,0.89983046,0.08002019
+No Impairment\13 (48).jpg,No Impairment,No Impairment,2,2,0.0002930464,2.7338498e-05,0.9635371,0.036142502
+No Impairment\13 (60).jpg,No Impairment,No Impairment,2,2,4.4981905e-05,1.9712327e-06,0.9997668,0.00018622636
+No Impairment\13 (65).jpg,No Impairment,No Impairment,2,2,0.0054727257,3.5132856e-05,0.9903325,0.0041596987
+No Impairment\13 (67).jpg,No Impairment,No Impairment,2,2,0.06778276,0.00027973502,0.9295157,0.0024218014
+No Impairment\13 (69).jpg,No Impairment,No Impairment,2,2,0.00096561376,3.19739e-05,0.87444675,0.12455566
+No Impairment\13 (74).jpg,No Impairment,No Impairment,2,2,5.4960186e-05,1.3575096e-05,0.99624264,0.003688864
+No Impairment\13 (94).jpg,No Impairment,No Impairment,2,2,3.1792435e-05,3.2088778e-06,0.9996974,0.0002675682
+No Impairment\13 (98).jpg,No Impairment,No Impairment,2,2,0.008695226,7.414378e-05,0.9581274,0.03310323
+No Impairment\14 (100).jpg,No Impairment,No Impairment,2,2,0.21492946,0.0015924504,0.7584341,0.02504402
+No Impairment\14 (15).jpg,No Impairment,No Impairment,2,2,0.00017640766,9.1447044e-05,0.9988357,0.0008964965
+No Impairment\14 (2).jpg,No Impairment,No Impairment,2,2,0.0008840398,3.4746794e-05,0.99643517,0.002646044
+No Impairment\14 (20).jpg,No Impairment,No Impairment,2,2,0.00010784954,6.548196e-06,0.9992231,0.00066239946
+No Impairment\14 (28).jpg,No Impairment,No Impairment,2,2,3.386147e-05,3.477955e-06,0.9996115,0.00035116414
+No Impairment\14 (34).jpg,No Impairment,No Impairment,2,2,6.289713e-05,1.3692006e-05,0.9997447,0.00017870104
+No Impairment\14 (35).jpg,No Impairment,No Impairment,2,2,6.3442465e-05,5.5992596e-06,0.99980724,0.00012370247
+No Impairment\14 (44).jpg,No Impairment,No Impairment,2,2,0.00050332275,5.299476e-06,0.99915105,0.00034037785
+No Impairment\14 (48).jpg,No Impairment,No Impairment,2,2,4.4958266e-05,9.251862e-06,0.9990656,0.0008801546
+No Impairment\14 (51).jpg,No Impairment,No Impairment,2,2,0.05915774,0.00016855614,0.9280306,0.012643124
+No Impairment\14 (53).jpg,No Impairment,No Impairment,2,2,0.00013214532,8.791697e-06,0.9994956,0.00036341551
+No Impairment\14 (54).jpg,No Impairment,No Impairment,2,2,0.00019290955,1.4680239e-06,0.99890584,0.00089975836
+No Impairment\14 (57).jpg,No Impairment,No Impairment,2,2,0.0012099097,6.444106e-06,0.99850893,0.00027475168
+No Impairment\14 (58).jpg,No Impairment,No Impairment,2,2,0.00014383679,1.6852448e-05,0.998631,0.0012082553
+No Impairment\14 (60).jpg,No Impairment,No Impairment,2,2,4.17529e-05,1.6367694e-06,0.99966,0.00029659254
+No Impairment\14 (79).jpg,No Impairment,No Impairment,2,2,0.0007913865,5.275007e-05,0.9953519,0.003803993
+No Impairment\14 (83).jpg,No Impairment,No Impairment,2,2,8.2790735e-05,8.73518e-05,0.998143,0.0016868149
+No Impairment\14 (88).jpg,No Impairment,No Impairment,2,2,3.11994e-05,3.6259257e-07,0.9998676,0.00010075531
+No Impairment\14 (91).jpg,No Impairment,No Impairment,2,2,0.0007036248,2.5767955e-05,0.99854314,0.00072743476
+No Impairment\14 (97).jpg,No Impairment,No Impairment,2,2,0.0012944092,7.061503e-05,0.9938525,0.004782439
+No Impairment\14 (99).jpg,No Impairment,No Impairment,2,2,0.007808159,9.761566e-05,0.9887272,0.0033670869
+No Impairment\15 (18).jpg,No Impairment,No Impairment,2,2,5.205995e-05,3.880296e-06,0.9987981,0.0011460299
+No Impairment\15 (2).jpg,No Impairment,No Impairment,2,2,0.0020071254,2.1694379e-05,0.9967276,0.0012435794
+No Impairment\15 (23).jpg,No Impairment,No Impairment,2,2,0.010962709,6.779312e-05,0.9872452,0.0017243698
+No Impairment\15 (27).jpg,No Impairment,No Impairment,2,2,6.6261295e-05,1.4648791e-06,0.99970895,0.00022334003
+No Impairment\15 (3).jpg,No Impairment,No Impairment,2,2,0.02435703,0.0005844397,0.9712497,0.0038087894
+No Impairment\15 (33).jpg,No Impairment,No Impairment,2,2,0.001428593,2.0003052e-05,0.99797106,0.0005803666
+No Impairment\15 (40).jpg,No Impairment,No Impairment,2,2,0.00023937567,5.000779e-06,0.99943924,0.00031642424
+No Impairment\15 (5).jpg,No Impairment,No Impairment,2,2,7.836373e-05,2.691576e-05,0.99929523,0.00059942406
+No Impairment\15 (55).jpg,No Impairment,No Impairment,2,2,0.0013156332,1.988943e-05,0.98719347,0.011470927
+No Impairment\15 (56).jpg,No Impairment,No Impairment,2,2,3.5190747e-05,8.868862e-06,0.9988917,0.0010641704
+No Impairment\15 (66).jpg,No Impairment,No Impairment,2,2,2.6675178e-05,3.1403247e-06,0.99990016,7.008601e-05
+No Impairment\15 (70).jpg,No Impairment,No Impairment,2,2,0.00017462445,7.623218e-06,0.9994666,0.0003511846
+No Impairment\15 (76).jpg,No Impairment,No Impairment,2,2,0.00015729274,7.342604e-05,0.99914026,0.0006290514
+No Impairment\15 (79).jpg,No Impairment,No Impairment,2,2,0.00064337096,4.3314165e-05,0.9962641,0.0030492484
+No Impairment\15 (8).jpg,No Impairment,No Impairment,2,2,2.8465995e-05,4.1100075e-06,0.99987733,9.012084e-05
+No Impairment\15 (84).jpg,No Impairment,No Impairment,2,2,0.00015595969,2.8437853e-05,0.9983654,0.0014502194
+No Impairment\15 (93).jpg,No Impairment,No Impairment,2,2,0.00027252332,1.8549583e-05,0.9968959,0.0028131132
+No Impairment\16 (11).jpg,No Impairment,No Impairment,2,2,9.36352e-05,3.313822e-05,0.9995438,0.0003294723
+No Impairment\16 (12).jpg,No Impairment,No Impairment,2,2,3.052179e-05,3.0376414e-05,0.99967396,0.0002651994
+No Impairment\16 (14).jpg,No Impairment,No Impairment,2,2,0.0028073713,8.7498995e-07,0.99710435,8.747317e-05
+No Impairment\16 (15).jpg,No Impairment,No Impairment,2,2,0.0001885478,8.988568e-05,0.9987532,0.000968444
+No Impairment\16 (16).jpg,No Impairment,No Impairment,2,2,0.00021238995,7.338439e-06,0.99912214,0.0006581754
+No Impairment\16 (27).jpg,No Impairment,No Impairment,2,2,9.6493066e-05,3.022149e-06,0.99879915,0.0011013735
+No Impairment\16 (29).jpg,No Impairment,No Impairment,2,2,0.00012347261,2.2611399e-05,0.99975693,9.698952e-05
+No Impairment\16 (31).jpg,No Impairment,No Impairment,2,2,0.00032654594,8.873852e-07,0.9989852,0.00068734
+No Impairment\16 (32).jpg,No Impairment,No Impairment,2,2,0.0036534246,0.00016650393,0.62147367,0.37470645
+No Impairment\16 (39).jpg,No Impairment,No Impairment,2,2,0.00015950075,1.2129551e-05,0.99830467,0.001523703
+No Impairment\16 (44).jpg,No Impairment,No Impairment,2,2,0.0011944358,3.9950232e-06,0.9985283,0.00027330685
+No Impairment\16 (5).jpg,No Impairment,No Impairment,2,2,4.905737e-05,3.7450216e-05,0.99910384,0.000809674
+No Impairment\16 (50).jpg,No Impairment,No Impairment,2,2,0.0017961381,4.680344e-05,0.9936434,0.0045136577
+No Impairment\16 (52).jpg,No Impairment,No Impairment,2,2,0.0001426057,6.5989625e-06,0.99866426,0.0011865922
+No Impairment\16 (54).jpg,No Impairment,No Impairment,2,2,0.0013863621,1.2149195e-05,0.9951555,0.003445981
+No Impairment\16 (56).jpg,No Impairment,No Impairment,2,2,2.8601877e-05,1.1707801e-05,0.9995116,0.00044803572
+No Impairment\16 (61).jpg,No Impairment,Very Mild Impairment,2,3,0.07299607,0.00045045395,0.40072504,0.5258285
+No Impairment\16 (64).jpg,No Impairment,No Impairment,2,2,0.0001451017,7.519438e-05,0.9984989,0.0012807263
+No Impairment\16 (65).jpg,No Impairment,No Impairment,2,2,0.0014825121,1.9414829e-05,0.9900287,0.008469406
+No Impairment\16 (70).jpg,No Impairment,No Impairment,2,2,0.000118212774,7.040212e-06,0.99964654,0.00022812378
+No Impairment\16 (72).jpg,No Impairment,No Impairment,2,2,0.007908588,0.00022538364,0.96349823,0.028367767
+No Impairment\16 (77).jpg,No Impairment,No Impairment,2,2,2.2075295e-05,8.382706e-06,0.9994248,0.0005447483
+No Impairment\16 (8).jpg,No Impairment,No Impairment,2,2,2.4481222e-05,6.160861e-06,0.9998067,0.00016259988
+No Impairment\16 (83).jpg,No Impairment,No Impairment,2,2,1.3802557e-05,1.5357702e-05,0.99978274,0.00018803675
+No Impairment\16 (89).jpg,No Impairment,No Impairment,2,2,0.00011789331,2.082586e-05,0.9994253,0.00043594575
+No Impairment\16 (92).jpg,No Impairment,No Impairment,2,2,0.051484507,0.0004945498,0.79994524,0.14807566
+No Impairment\16 (95).jpg,No Impairment,No Impairment,2,2,3.0481431e-05,6.742144e-06,0.9996482,0.00031453837
+No Impairment\16 (98).jpg,No Impairment,No Impairment,2,2,0.478334,0.00015444991,0.51740986,0.0041017546
+No Impairment\17 (12).jpg,No Impairment,No Impairment,2,2,3.142497e-05,2.9752093e-05,0.9993726,0.0005661826
+No Impairment\17 (17).jpg,No Impairment,No Impairment,2,2,0.070431516,5.0579467e-05,0.9226306,0.0068873228
+No Impairment\17 (25).jpg,No Impairment,No Impairment,2,2,0.0003915112,7.039333e-07,0.9995837,2.4058249e-05
+No Impairment\17 (27).jpg,No Impairment,No Impairment,2,2,9.781256e-05,2.6605878e-06,0.99493533,0.0049642073
+No Impairment\17 (28).jpg,No Impairment,No Impairment,2,2,8.5873544e-05,4.337176e-06,0.9996091,0.00030062595
+No Impairment\17 (34).jpg,No Impairment,No Impairment,2,2,0.00014569797,1.7894852e-05,0.99950457,0.00033186033
+No Impairment\17 (39).jpg,No Impairment,No Impairment,2,2,0.00025468878,4.7104522e-06,0.99939394,0.00034663267
+No Impairment\17 (51).jpg,No Impairment,No Impairment,2,2,0.06611473,0.00090778386,0.90926456,0.023712937
+No Impairment\17 (67).jpg,No Impairment,No Impairment,2,2,0.020214535,7.547694e-05,0.96304905,0.016660906
+No Impairment\17 (72).jpg,No Impairment,No Impairment,2,2,0.0013841216,0.00024329021,0.9961096,0.0022630957
+No Impairment\17 (76).jpg,No Impairment,No Impairment,2,2,0.00012364554,3.7979444e-05,0.99951124,0.00032709862
+No Impairment\17 (79).jpg,No Impairment,No Impairment,2,2,0.00032415322,9.965948e-06,0.99821794,0.0014479512
+No Impairment\17 (80).jpg,No Impairment,No Impairment,2,2,3.389069e-05,1.6825321e-05,0.9994553,0.00049408094
+No Impairment\17 (87).jpg,No Impairment,No Impairment,2,2,0.00017678544,8.334589e-06,0.99943197,0.00038295184
+No Impairment\17 (92).jpg,No Impairment,No Impairment,2,2,0.0014869549,5.1699473e-05,0.994942,0.0035193264
+No Impairment\17 (93).jpg,No Impairment,No Impairment,2,2,0.0006614454,0.00015382489,0.80293924,0.19624554
+No Impairment\17 (97).jpg,No Impairment,No Impairment,2,2,0.00022750304,3.5412748e-05,0.99876344,0.0009737339
+No Impairment\17 (99).jpg,No Impairment,No Impairment,2,2,0.0037808318,1.9156854e-05,0.99346083,0.0027392257
+No Impairment\17.jpg,No Impairment,No Impairment,2,2,6.208689e-05,2.209149e-05,0.99929,0.0006258
+No Impairment\18 (12).jpg,No Impairment,No Impairment,2,2,2.2813138e-05,3.7613667e-05,0.9993305,0.0006090553
+No Impairment\18 (17).jpg,No Impairment,No Impairment,2,2,0.27842385,9.13728e-05,0.71126527,0.01021952
+No Impairment\18 (18).jpg,No Impairment,No Impairment,2,2,0.00024287752,6.692945e-06,0.9983698,0.0013806702
+No Impairment\18 (2).jpg,No Impairment,No Impairment,2,2,0.00090644474,5.6130804e-05,0.9978665,0.0011709491
+No Impairment\18 (27).jpg,No Impairment,No Impairment,2,2,0.00036707544,7.88232e-06,0.9330475,0.06657766
+No Impairment\18 (3).jpg,No Impairment,No Impairment,2,2,0.00048427135,0.00011454587,0.9976654,0.0017357378
+No Impairment\18 (31).jpg,No Impairment,No Impairment,2,2,0.00013085421,2.2176671e-07,0.9997813,8.759824e-05
+No Impairment\18 (32).jpg,No Impairment,No Impairment,2,2,0.0014730443,3.6110658e-05,0.99323285,0.0052580633
+No Impairment\18 (34).jpg,No Impairment,No Impairment,2,2,0.00011304591,1.1882401e-05,0.99937665,0.0004983783
+No Impairment\18 (35).jpg,No Impairment,No Impairment,2,2,7.3687e-05,3.7482434e-06,0.99956816,0.00035446422
+No Impairment\18 (36).jpg,No Impairment,No Impairment,2,2,0.00041351345,1.7422757e-06,0.998981,0.0006037269
+No Impairment\18 (38).jpg,No Impairment,No Impairment,2,2,0.00016750643,2.9480216e-05,0.9991053,0.00069768133
+No Impairment\18 (39).jpg,No Impairment,No Impairment,2,2,0.00026838435,5.0559593e-06,0.99931,0.0004164782
+No Impairment\18 (4).jpg,No Impairment,No Impairment,2,2,0.00018312506,5.4208895e-06,0.99966794,0.00014348296
+No Impairment\18 (43).jpg,No Impairment,No Impairment,2,2,0.00404624,1.9137055e-05,0.9714221,0.024512544
+No Impairment\18 (44).jpg,No Impairment,No Impairment,2,2,0.0009226656,3.3719093e-06,0.9989379,0.00013610514
+No Impairment\18 (46).jpg,No Impairment,No Impairment,2,2,0.00045566208,2.6767898e-06,0.99652463,0.0030171033
+No Impairment\18 (50).jpg,No Impairment,No Impairment,2,2,0.0002341219,2.1657326e-05,0.9962891,0.0034551774
+No Impairment\18 (72).jpg,No Impairment,No Impairment,2,2,0.00019507637,2.797259e-05,0.99922913,0.0005478066
+No Impairment\18 (73).jpg,No Impairment,No Impairment,2,2,1.4942843e-05,3.3799566e-07,0.9998724,0.00011225196
+No Impairment\18 (80).jpg,No Impairment,No Impairment,2,2,6.0370592e-05,1.26026935e-05,0.9993259,0.00060113927
+No Impairment\18 (84).jpg,No Impairment,No Impairment,2,2,0.0001718039,3.3336873e-05,0.9975828,0.0022121067
+No Impairment\18 (85).jpg,No Impairment,No Impairment,2,2,2.9756204e-05,1.0970269e-05,0.9997629,0.0001963614
+No Impairment\18 (86).jpg,No Impairment,No Impairment,2,2,9.244794e-05,1.189515e-05,0.99802816,0.0018675125
+No Impairment\18 (88).jpg,No Impairment,No Impairment,2,2,5.0056977e-05,1.9085637e-06,0.99983567,0.00011236516
+No Impairment\18 (97).jpg,No Impairment,No Impairment,2,2,0.00051766756,0.0001855223,0.938532,0.06076476
+No Impairment\19 (13).jpg,No Impairment,No Impairment,2,2,0.0005267645,0.0003354912,0.9030725,0.09606527
+No Impairment\19 (17).jpg,No Impairment,No Impairment,2,2,0.26938677,0.00013582065,0.7192924,0.011185011
+No Impairment\19 (19).jpg,No Impairment,No Impairment,2,2,0.006467131,0.00010022244,0.9705178,0.02291487
+No Impairment\19 (2).jpg,No Impairment,No Impairment,2,2,0.0004740043,1.6440154e-05,0.9985677,0.0009418718
+No Impairment\19 (32).jpg,No Impairment,No Impairment,2,2,0.011871221,4.125861e-05,0.9843737,0.0037138958
+No Impairment\19 (36).jpg,No Impairment,No Impairment,2,2,0.00064991927,2.035989e-06,0.99804574,0.0013022709
+No Impairment\19 (43).jpg,No Impairment,No Impairment,2,2,0.011048155,0.00011182639,0.8497977,0.13904223
+No Impairment\19 (45).jpg,No Impairment,No Impairment,2,2,0.00017781094,2.2319646e-06,0.9995861,0.00023383988
+No Impairment\19 (49).jpg,No Impairment,No Impairment,2,2,0.0040427605,8.264894e-06,0.99559724,0.00035174054
+No Impairment\19 (5).jpg,No Impairment,No Impairment,2,2,3.78052e-05,1.6337388e-05,0.9995205,0.0004253598
+No Impairment\19 (54).jpg,No Impairment,No Impairment,2,2,0.0008779416,1.0763997e-05,0.9970142,0.002097105
+No Impairment\19 (56).jpg,No Impairment,No Impairment,2,2,6.0694467e-05,1.7172879e-05,0.99845064,0.0014714762
+No Impairment\19 (57).jpg,No Impairment,No Impairment,2,2,0.00038718898,1.2216469e-05,0.9991611,0.00043955474
+No Impairment\19 (58).jpg,No Impairment,No Impairment,2,2,0.001523525,6.646682e-05,0.8204013,0.17800876
+No Impairment\19 (59).jpg,No Impairment,No Impairment,2,2,0.00025331546,2.9258747e-06,0.9990384,0.0007053439
+No Impairment\19 (6).jpg,No Impairment,No Impairment,2,2,1.7965087e-05,1.8527066e-05,0.99933684,0.00062667765
+No Impairment\19 (65).jpg,No Impairment,No Impairment,2,2,0.001523362,1.0153937e-05,0.9793215,0.01914496
+No Impairment\19 (7).jpg,No Impairment,No Impairment,2,2,0.0022450178,1.526732e-05,0.9866996,0.01104009
+No Impairment\19 (77).jpg,No Impairment,No Impairment,2,2,8.841168e-06,5.7711645e-06,0.99967784,0.00030756282
+No Impairment\19 (8).jpg,No Impairment,No Impairment,2,2,2.1879556e-05,1.122248e-06,0.9992201,0.00075695093
+No Impairment\19 (81).jpg,No Impairment,No Impairment,2,2,2.2908414e-05,7.6547195e-07,0.99995166,2.467121e-05
+No Impairment\19 (82).jpg,No Impairment,No Impairment,2,2,6.6448585e-05,1.7342356e-05,0.99978197,0.00013420958
+No Impairment\19 (84).jpg,No Impairment,No Impairment,2,2,0.00011951829,1.557623e-05,0.99854505,0.0013197935
+No Impairment\19 (88).jpg,No Impairment,No Impairment,2,2,2.0985282e-05,1.0306828e-06,0.9999212,5.6815938e-05
+No Impairment\19 (9).jpg,No Impairment,No Impairment,2,2,0.0032524287,2.543944e-05,0.99324083,0.0034812733
+No Impairment\2 (100).jpg,No Impairment,No Impairment,2,2,0.07871057,0.00040162244,0.6761803,0.24470744
+No Impairment\2 (11).jpg,No Impairment,No Impairment,2,2,7.707248e-05,1.02890535e-05,0.9989233,0.0009893696
+No Impairment\2 (15).jpg,No Impairment,No Impairment,2,2,7.414972e-05,6.266103e-06,0.9997544,0.00016514896
+No Impairment\2 (18).jpg,No Impairment,No Impairment,2,2,0.00034347718,4.5913468e-05,0.997748,0.0018626049
+No Impairment\2 (19).jpg,No Impairment,No Impairment,2,2,0.0012237113,9.223573e-05,0.98784906,0.010834936
+No Impairment\2 (22).jpg,No Impairment,No Impairment,2,2,0.016966887,6.687732e-05,0.9528616,0.030104643
+No Impairment\2 (30).jpg,No Impairment,No Impairment,2,2,0.00022070445,3.3465894e-05,0.99074155,0.009004282
+No Impairment\2 (42).jpg,No Impairment,No Impairment,2,2,0.0010532818,6.774804e-05,0.97108775,0.027791241
+No Impairment\2 (48).jpg,No Impairment,No Impairment,2,2,0.03614477,0.0007407473,0.936417,0.026697448
+No Impairment\2 (53).jpg,No Impairment,No Impairment,2,2,7.892996e-05,1.816322e-05,0.9989662,0.0009367205
+No Impairment\2 (54).jpg,No Impairment,No Impairment,2,2,0.00015827813,1.4458335e-05,0.99942225,0.00040498207
+No Impairment\2 (61).jpg,No Impairment,No Impairment,2,2,0.0032294996,4.876086e-05,0.5828477,0.413874
+No Impairment\2 (64).jpg,No Impairment,No Impairment,2,2,3.5600213e-05,4.66832e-06,0.99980366,0.00015606199
+No Impairment\2 (69).jpg,No Impairment,No Impairment,2,2,0.00048273974,5.4985954e-05,0.99804676,0.0014154728
+No Impairment\2 (79).jpg,No Impairment,No Impairment,2,2,0.00039025952,2.8639548e-05,0.9936271,0.005954059
+No Impairment\2 (80).jpg,No Impairment,No Impairment,2,2,0.00023987048,4.0830644e-05,0.99684894,0.002870306
+No Impairment\2 (85).jpg,No Impairment,No Impairment,2,2,7.147869e-05,2.240341e-05,0.99956465,0.00034140292
+No Impairment\2 (90).jpg,No Impairment,No Impairment,2,2,0.0003680977,1.2968189e-05,0.98416245,0.015456466
+No Impairment\2 (95).jpg,No Impairment,No Impairment,2,2,0.00033137982,8.586077e-05,0.9806608,0.018922007
+No Impairment\2 (96).jpg,No Impairment,No Impairment,2,2,0.00017149722,6.2077765e-05,0.9969762,0.0027902208
+No Impairment\2.jpg,No Impairment,No Impairment,2,2,5.2163923e-05,9.739424e-06,0.9995063,0.00043183722
+No Impairment\20 (13).jpg,No Impairment,No Impairment,2,2,0.00028727332,0.00013816085,0.99746114,0.0021133914
+No Impairment\20 (20).jpg,No Impairment,No Impairment,2,2,0.00056021364,2.0736537e-05,0.9978403,0.0015787767
+No Impairment\20 (29).jpg,No Impairment,No Impairment,2,2,0.11572479,4.4297136e-05,0.8823552,0.0018756868
+No Impairment\20 (3).jpg,No Impairment,No Impairment,2,2,0.0007279838,0.0006280438,0.99720955,0.0014343739
+No Impairment\20 (39).jpg,No Impairment,No Impairment,2,2,0.00015424895,1.016652e-05,0.999366,0.00046953652
+No Impairment\20 (4).jpg,No Impairment,No Impairment,2,2,9.730312e-05,1.2149178e-05,0.99953383,0.00035665891
+No Impairment\20 (41).jpg,No Impairment,No Impairment,2,2,8.803229e-05,4.88457e-07,0.9995079,0.00040355575
+No Impairment\20 (42).jpg,No Impairment,No Impairment,2,2,0.00017760476,1.3163174e-06,0.9976698,0.0021512914
+No Impairment\20 (45).jpg,No Impairment,No Impairment,2,2,0.00074443046,7.159421e-06,0.9989312,0.00031714464
+No Impairment\20 (46).jpg,No Impairment,No Impairment,2,2,0.00033523218,3.0985957e-06,0.9986221,0.0010395792
+No Impairment\20 (54).jpg,No Impairment,No Impairment,2,2,0.0019305025,1.973752e-05,0.98273104,0.015318757
+No Impairment\20 (55).jpg,No Impairment,No Impairment,2,2,0.0009650242,2.5940433e-05,0.91162825,0.08738071
+No Impairment\20 (58).jpg,No Impairment,No Impairment,2,2,0.001541192,9.1093425e-05,0.9396513,0.058716428
+No Impairment\20 (66).jpg,No Impairment,No Impairment,2,2,4.882703e-06,5.500573e-07,0.9999353,5.9268925e-05
+No Impairment\20 (72).jpg,No Impairment,No Impairment,2,2,0.0008715312,2.8285526e-06,0.999066,5.963409e-05
+No Impairment\20 (77).jpg,No Impairment,No Impairment,2,2,9.1982365e-06,4.579804e-06,0.99991304,7.3200325e-05
+No Impairment\20 (84).jpg,No Impairment,No Impairment,2,2,6.0220296e-05,8.031579e-06,0.99932945,0.0006022391
+No Impairment\21 (25).jpg,No Impairment,No Impairment,2,2,3.7480047e-05,4.7117237e-06,0.9998204,0.00013735892
+No Impairment\21 (27).jpg,No Impairment,No Impairment,2,2,6.398371e-05,1.3338631e-06,0.9960969,0.003837775
+No Impairment\21 (28).jpg,No Impairment,No Impairment,2,2,6.5682834e-05,5.9419735e-06,0.9996403,0.00028816905
+No Impairment\21 (36).jpg,No Impairment,No Impairment,2,2,0.00033288734,2.0330592e-05,0.9979898,0.0016570415
+No Impairment\21 (41).jpg,No Impairment,No Impairment,2,2,7.522017e-05,2.1042094e-06,0.99962157,0.0003011347
+No Impairment\21 (43).jpg,No Impairment,No Impairment,2,2,0.0013708188,3.0671974e-05,0.99283856,0.00575994
+No Impairment\21 (45).jpg,No Impairment,No Impairment,2,2,0.010629558,2.4269404e-05,0.9886597,0.00068650465
+No Impairment\21 (47).jpg,No Impairment,No Impairment,2,2,0.0032022104,8.239483e-05,0.67223114,0.3244842
+No Impairment\21 (5).jpg,No Impairment,No Impairment,2,2,2.4570641e-05,1.26740515e-05,0.9996902,0.00027257967
+No Impairment\21 (52).jpg,No Impairment,No Impairment,2,2,0.00032824205,4.428293e-06,0.999321,0.00034634303
+No Impairment\21 (56).jpg,No Impairment,No Impairment,2,2,7.829035e-05,1.0638958e-05,0.9996995,0.0002115815
+No Impairment\21 (64).jpg,No Impairment,No Impairment,2,2,1.5288852e-05,1.2907049e-05,0.9998334,0.00013845178
+No Impairment\21 (73).jpg,No Impairment,No Impairment,2,2,1.5176081e-05,2.0430271e-07,0.99995005,3.459739e-05
+No Impairment\21 (82).jpg,No Impairment,No Impairment,2,2,3.40603e-05,2.2723445e-06,0.9999238,3.981425e-05
+No Impairment\21 (93).jpg,No Impairment,No Impairment,2,2,0.00081901404,5.7346817e-05,0.9921633,0.0069603464
+No Impairment\21 (94).jpg,No Impairment,No Impairment,2,2,0.000106518484,4.8324764e-06,0.99972504,0.0001635965
+No Impairment\21 (97).jpg,No Impairment,No Impairment,2,2,0.00072055,0.00014058145,0.9400814,0.059057485
+No Impairment\22 (100).jpg,No Impairment,No Impairment,2,2,0.0263027,6.6037435e-05,0.97201985,0.001611393
+No Impairment\22 (15).jpg,No Impairment,No Impairment,2,2,0.00038983492,0.00013323934,0.99189126,0.007585629
+No Impairment\22 (19).jpg,No Impairment,No Impairment,2,2,0.0017722447,9.00534e-05,0.992287,0.005850752
+No Impairment\22 (2).jpg,No Impairment,No Impairment,2,2,0.00027793873,3.6693244e-05,0.99765617,0.0020292378
+No Impairment\22 (22).jpg,No Impairment,No Impairment,2,2,0.129987,3.5513156e-05,0.86775887,0.0022186371
+No Impairment\22 (29).jpg,No Impairment,No Impairment,2,2,0.10822811,4.0280465e-05,0.8908413,0.00089033163
+No Impairment\22 (30).jpg,No Impairment,No Impairment,2,2,0.00034364153,5.6817366e-06,0.99879885,0.0008518303
+No Impairment\22 (34).jpg,No Impairment,No Impairment,2,2,0.000103901,2.7474973e-05,0.99922544,0.0006431843
+No Impairment\22 (35).jpg,No Impairment,No Impairment,2,2,7.304402e-05,5.754454e-06,0.99954575,0.0003754694
+No Impairment\22 (41).jpg,No Impairment,No Impairment,2,2,0.00018022771,7.1469717e-06,0.99774677,0.0020658895
+No Impairment\22 (47).jpg,No Impairment,No Impairment,2,2,0.0023056853,5.5439836e-05,0.9785619,0.01907703
+No Impairment\22 (5).jpg,No Impairment,No Impairment,2,2,2.1754362e-05,1.1840309e-05,0.99905187,0.0009144784
+No Impairment\22 (55).jpg,No Impairment,No Impairment,2,2,0.033789244,0.00019282827,0.93031347,0.035704404
+No Impairment\22 (61).jpg,No Impairment,No Impairment,2,2,0.00024727796,2.7189285e-06,0.9989133,0.0008366783
+No Impairment\22 (65).jpg,No Impairment,No Impairment,2,2,0.001398833,1.8563243e-05,0.9959949,0.0025876728
+No Impairment\22 (78).jpg,No Impairment,No Impairment,2,2,8.788229e-05,9.0724797e-07,0.99985445,5.6803787e-05
+No Impairment\22 (8).jpg,No Impairment,No Impairment,2,2,4.1377134e-05,3.8149738e-06,0.9997314,0.00022338265
+No Impairment\22 (85).jpg,No Impairment,No Impairment,2,2,9.199484e-06,1.4226171e-06,0.9999213,6.8024594e-05
+No Impairment\22 (86).jpg,No Impairment,No Impairment,2,2,3.962303e-05,7.905716e-06,0.9997252,0.00022722753
+No Impairment\22 (90).jpg,No Impairment,No Impairment,2,2,5.9671573e-05,8.9875857e-07,0.9997613,0.00017804748
+No Impairment\22 (96).jpg,No Impairment,No Impairment,2,2,5.7113695e-05,1.807752e-05,0.9997643,0.00016049502
+No Impairment\22 (99).jpg,No Impairment,No Impairment,2,2,0.0005344018,4.1530234e-06,0.999222,0.00023944463
+No Impairment\23 (19).jpg,No Impairment,No Impairment,2,2,0.0016714878,1.9395055e-05,0.9977182,0.0005908795
+No Impairment\23 (20).jpg,No Impairment,No Impairment,2,2,0.00068956555,1.718903e-05,0.99842626,0.0008669553
+No Impairment\23 (32).jpg,No Impairment,No Impairment,2,2,0.046140175,1.6460359e-05,0.9476016,0.0062417695
+No Impairment\23 (4).jpg,No Impairment,No Impairment,2,2,0.00022029379,1.0344072e-05,0.99949425,0.0002751394
+No Impairment\23 (40).jpg,No Impairment,No Impairment,2,2,0.026932906,0.00015937434,0.96969956,0.0032080994
+No Impairment\23 (51).jpg,No Impairment,No Impairment,2,2,0.0057194363,0.00038835529,0.9785341,0.015358034
+No Impairment\23 (65).jpg,No Impairment,No Impairment,2,2,4.551821e-05,7.363191e-07,0.99990046,5.3324875e-05
+No Impairment\23 (73).jpg,No Impairment,No Impairment,2,2,6.1824126e-06,2.354993e-07,0.9999708,2.2813616e-05
+No Impairment\23 (74).jpg,No Impairment,No Impairment,2,2,0.0003122603,6.47393e-05,0.9909996,0.008623349
+No Impairment\23 (76).jpg,No Impairment,No Impairment,2,2,0.00016206953,2.521897e-05,0.99950105,0.00031172458
+No Impairment\23 (81).jpg,No Impairment,No Impairment,2,2,0.0006614581,2.5501145e-06,0.9991889,0.00014705908
+No Impairment\23 (85).jpg,No Impairment,No Impairment,2,2,1.6021684e-05,3.29791e-06,0.9998295,0.00015115556
+No Impairment\23 (86).jpg,No Impairment,No Impairment,2,2,8.103311e-05,5.059118e-06,0.9996095,0.00030440316
+No Impairment\23 (87).jpg,No Impairment,No Impairment,2,2,0.00047796467,2.0380816e-05,0.99545336,0.004048345
+No Impairment\23 (9).jpg,No Impairment,No Impairment,2,2,0.0009948558,2.7880658e-05,0.9970395,0.0019377309
+No Impairment\23 (91).jpg,No Impairment,No Impairment,2,2,8.9134655e-06,7.750397e-07,0.9999525,3.7765436e-05
+No Impairment\23 (92).jpg,No Impairment,No Impairment,2,2,0.00086646806,1.3125532e-05,0.99872684,0.00039360704
+No Impairment\24 (12).jpg,No Impairment,No Impairment,2,2,8.4693565e-05,2.5391782e-05,0.99877703,0.0011129236
+No Impairment\24 (13).jpg,No Impairment,No Impairment,2,2,3.501263e-06,9.985686e-07,0.9999833,1.2234521e-05
+No Impairment\24 (14).jpg,No Impairment,No Impairment,2,2,0.04849935,0.00014792259,0.8977362,0.053616486
+No Impairment\24 (17).jpg,No Impairment,No Impairment,2,2,0.14244379,0.0002206899,0.84579057,0.011544998
+No Impairment\24 (18).jpg,No Impairment,No Impairment,2,2,0.000224422,2.7116583e-05,0.9984535,0.0012949343
+No Impairment\24 (25).jpg,No Impairment,No Impairment,2,2,8.468637e-05,4.9864716e-06,0.99973804,0.00017231931
+No Impairment\24 (31).jpg,No Impairment,No Impairment,2,2,0.00058741204,5.8559854e-06,0.9983913,0.0010154748
+No Impairment\24 (32).jpg,No Impairment,No Impairment,2,2,0.018947165,4.1272255e-05,0.94582224,0.03518928
+No Impairment\24 (36).jpg,No Impairment,No Impairment,2,2,3.3349854e-05,1.9283987e-06,0.9997822,0.00018261015
+No Impairment\24 (38).jpg,No Impairment,No Impairment,2,2,0.00034269367,2.5615464e-05,0.9986237,0.0010080179
+No Impairment\24 (4).jpg,No Impairment,No Impairment,2,2,0.002280394,1.5398911e-05,0.9973954,0.00030873995
+No Impairment\24 (41).jpg,No Impairment,No Impairment,2,2,2.4184073e-05,1.7301442e-06,0.9997298,0.00024426822
+No Impairment\24 (43).jpg,No Impairment,No Impairment,2,2,0.0033555974,0.00018616044,0.9238197,0.072638504
+No Impairment\24 (69).jpg,No Impairment,No Impairment,2,2,0.00026044148,2.8185402e-06,0.99795496,0.0017817902
+No Impairment\24 (7).jpg,No Impairment,No Impairment,2,2,0.0028267005,5.9740538e-05,0.9888957,0.0082179075
+No Impairment\24 (72).jpg,No Impairment,No Impairment,2,2,0.03440036,2.1860063e-05,0.9630842,0.0024936295
+No Impairment\24 (82).jpg,No Impairment,No Impairment,2,2,3.9034658e-05,2.05019e-06,0.9999078,5.1161238e-05
+No Impairment\25 (100).jpg,No Impairment,No Impairment,2,2,0.009332104,5.3638283e-05,0.98990977,0.00070448534
+No Impairment\25 (11).jpg,No Impairment,No Impairment,2,2,5.9670296e-05,6.8180184e-06,0.9997568,0.00017665644
+No Impairment\25 (13).jpg,No Impairment,No Impairment,2,2,4.1176067e-06,1.1364656e-06,0.9999672,2.749876e-05
+No Impairment\25 (16).jpg,No Impairment,No Impairment,2,2,0.0044469014,1.5387206e-05,0.9951962,0.00034148438
+No Impairment\25 (29).jpg,No Impairment,No Impairment,2,2,0.0004110313,7.54847e-06,0.9985155,0.0010659621
+No Impairment\25 (30).jpg,No Impairment,No Impairment,2,2,0.00043447205,7.633807e-05,0.99450314,0.0049861567
+No Impairment\25 (31).jpg,No Impairment,No Impairment,2,2,0.00030033672,7.781029e-06,0.9963106,0.003381291
+No Impairment\25 (36).jpg,No Impairment,No Impairment,2,2,4.7635236e-05,1.6468942e-06,0.9997183,0.00023245101
+No Impairment\25 (38).jpg,No Impairment,No Impairment,2,2,0.0002378596,1.5627225e-05,0.9993509,0.00039562507
+No Impairment\25 (49).jpg,No Impairment,No Impairment,2,2,0.0049371915,3.6223325e-06,0.99481297,0.00024625982
+No Impairment\25 (5).jpg,No Impairment,No Impairment,2,2,4.93576e-05,1.7364806e-05,0.9995133,0.0004198694
+No Impairment\25 (53).jpg,No Impairment,No Impairment,2,2,4.580222e-05,1.4315736e-05,0.9997641,0.00017580802
+No Impairment\25 (56).jpg,No Impairment,No Impairment,2,2,9.850866e-06,2.5017493e-06,0.99994737,4.021348e-05
+No Impairment\25 (57).jpg,No Impairment,No Impairment,2,2,0.31176415,0.00037179698,0.62079734,0.06706666
+No Impairment\25 (59).jpg,No Impairment,No Impairment,2,2,9.2533315e-05,2.6550022e-06,0.99903184,0.0008730212
+No Impairment\25 (63).jpg,No Impairment,No Impairment,2,2,5.578852e-05,7.2524315e-05,0.9988882,0.0009834369
+No Impairment\25 (70).jpg,No Impairment,No Impairment,2,2,0.0003863264,2.2165626e-05,0.89425814,0.10533343
+No Impairment\25 (74).jpg,No Impairment,No Impairment,2,2,0.00017632099,4.8340867e-06,0.99949276,0.0003260406
+No Impairment\25 (76).jpg,No Impairment,No Impairment,2,2,0.00018275357,2.0897414e-05,0.99845743,0.001338868
+No Impairment\25 (78).jpg,No Impairment,No Impairment,2,2,0.0016848488,3.512472e-05,0.99522287,0.0030571953
+No Impairment\25 (84).jpg,No Impairment,No Impairment,2,2,4.996242e-05,2.5938401e-05,0.9996421,0.00028198835
+No Impairment\25 (85).jpg,No Impairment,No Impairment,2,2,6.419141e-05,2.679586e-06,0.9998083,0.00012487118
+No Impairment\25 (86).jpg,No Impairment,No Impairment,2,2,0.00010008497,1.4143244e-05,0.99927026,0.00061552506
+No Impairment\25 (87).jpg,No Impairment,No Impairment,2,2,0.0018049211,2.6970903e-05,0.99633867,0.0018294018
+No Impairment\25 (9).jpg,No Impairment,No Impairment,2,2,0.0032667704,3.4404766e-05,0.99274933,0.003949504
+No Impairment\26 (100).jpg,No Impairment,No Impairment,2,2,0.000644991,2.8818988e-05,0.99641526,0.002910972
+No Impairment\26 (13).jpg,No Impairment,No Impairment,2,2,5.1182687e-06,9.630438e-07,0.9999646,2.9268802e-05
+No Impairment\26 (14).jpg,No Impairment,No Impairment,2,2,0.03256391,0.00012231992,0.8718475,0.09546627
+No Impairment\26 (27).jpg,No Impairment,No Impairment,2,2,0.00020344373,2.7295143e-06,0.9988675,0.0009262331
+No Impairment\26 (29).jpg,No Impairment,No Impairment,2,2,0.00011977278,1.3585215e-05,0.9995691,0.000297493
+No Impairment\26 (37).jpg,No Impairment,No Impairment,2,2,5.6695397e-05,1.08363365e-05,0.99852705,0.0014054282
+No Impairment\26 (40).jpg,No Impairment,No Impairment,2,2,0.0004867972,1.1105447e-05,0.9993356,0.00016652604
+No Impairment\26 (51).jpg,No Impairment,No Impairment,2,2,0.31273538,0.0006162384,0.4132598,0.27338862
+No Impairment\26 (55).jpg,No Impairment,No Impairment,2,2,0.002928692,7.832077e-05,0.93340987,0.06358311
+No Impairment\26 (61).jpg,No Impairment,No Impairment,2,2,0.00026392768,2.3394381e-05,0.99946994,0.00024273581
+No Impairment\26 (68).jpg,No Impairment,No Impairment,2,2,0.0073024826,2.444837e-05,0.9883232,0.004349849
+No Impairment\26 (80).jpg,No Impairment,No Impairment,2,2,0.00030896763,7.0313085e-06,0.9986416,0.0010424185
+No Impairment\26 (81).jpg,No Impairment,No Impairment,2,2,0.0011624754,2.7405118e-05,0.9974014,0.0014086516
+No Impairment\26 (83).jpg,No Impairment,No Impairment,2,2,0.00010953867,8.839508e-06,0.9996756,0.00020611563
+No Impairment\26 (9).jpg,No Impairment,No Impairment,2,2,0.029847408,0.00017642722,0.9283239,0.041652143
+No Impairment\26 (93).jpg,No Impairment,No Impairment,2,2,0.0023250119,5.7814043e-05,0.99215764,0.0054595144
+No Impairment\26 (99).jpg,No Impairment,No Impairment,2,2,0.0007871514,2.1546684e-06,0.99896514,0.0002455532
+No Impairment\27 (16).jpg,No Impairment,No Impairment,2,2,6.1264785e-05,6.131355e-06,0.9989216,0.0010110366
+No Impairment\27 (20).jpg,No Impairment,No Impairment,2,2,1.0281268e-05,1.0032996e-06,0.999966,2.2713164e-05
+No Impairment\27 (24).jpg,No Impairment,No Impairment,2,2,0.036853936,0.00020231807,0.9577842,0.0051596286
+No Impairment\27 (29).jpg,No Impairment,No Impairment,2,2,0.32329515,0.00019082728,0.66468793,0.011826085
+No Impairment\27 (32).jpg,No Impairment,No Impairment,2,2,0.000113422764,8.558757e-07,0.99986017,2.5482464e-05
+No Impairment\27 (34).jpg,No Impairment,No Impairment,2,2,7.919116e-05,2.4267792e-05,0.99938315,0.00051337515
+No Impairment\27 (38).jpg,No Impairment,No Impairment,2,2,0.008439867,8.915393e-05,0.98261386,0.008857064
+No Impairment\27 (48).jpg,No Impairment,No Impairment,2,2,0.14968531,0.0005869218,0.58410907,0.26561868
+No Impairment\27 (5).jpg,No Impairment,No Impairment,2,2,0.028068697,1.608558e-05,0.97081345,0.0011017801
+No Impairment\27 (66).jpg,No Impairment,No Impairment,2,2,0.00019337467,9.487913e-05,0.99898994,0.000721854
+No Impairment\27 (67).jpg,No Impairment,No Impairment,2,2,0.00023559362,8.131984e-05,0.9961095,0.003573636
+No Impairment\27 (7).jpg,No Impairment,No Impairment,2,2,0.23628874,0.0001521698,0.7453651,0.01819399
+No Impairment\27 (70).jpg,No Impairment,No Impairment,2,2,7.193122e-05,1.1007411e-05,0.9996958,0.00022135062
+No Impairment\27 (72).jpg,No Impairment,No Impairment,2,2,9.434683e-05,5.50553e-06,0.9989001,0.0010000688
+No Impairment\27 (74).jpg,No Impairment,No Impairment,2,2,7.799237e-05,2.3138077e-06,0.9996697,0.00025007778
+No Impairment\27 (82).jpg,No Impairment,No Impairment,2,2,0.32056984,0.00016496584,0.65629375,0.022971412
+No Impairment\27 (83).jpg,No Impairment,No Impairment,2,2,0.00017891369,1.1841892e-05,0.9995863,0.00022295483
+No Impairment\27 (89).jpg,No Impairment,No Impairment,2,2,0.00017622768,1.9721626e-06,0.99955785,0.00026393303
+No Impairment\27 (92).jpg,No Impairment,No Impairment,2,2,0.009015785,0.00017350566,0.9841593,0.006651421
+No Impairment\27 (97).jpg,No Impairment,No Impairment,2,2,0.0007572883,0.0001079406,0.99386597,0.0052688075
+No Impairment\28 (12).jpg,No Impairment,No Impairment,2,2,0.00023080797,1.3517667e-05,0.9992589,0.0004967297
+No Impairment\28 (14).jpg,No Impairment,No Impairment,2,2,1.7060385e-05,5.2130176e-06,0.9999126,6.5066386e-05
+No Impairment\28 (16).jpg,No Impairment,No Impairment,2,2,5.6822504e-05,5.262208e-06,0.9985263,0.0014116212
+No Impairment\28 (21).jpg,No Impairment,No Impairment,2,2,0.014323607,0.0002145891,0.6945076,0.29095417
+No Impairment\28 (25).jpg,No Impairment,No Impairment,2,2,6.124466e-05,3.3891586e-06,0.9995764,0.00035894793
+No Impairment\28 (27).jpg,No Impairment,No Impairment,2,2,0.00018666015,3.631596e-06,0.9993413,0.0004684084
+No Impairment\28 (31).jpg,No Impairment,No Impairment,2,2,0.01061318,3.1581508e-06,0.98923266,0.00015108331
+No Impairment\28 (32).jpg,No Impairment,No Impairment,2,2,7.670782e-05,3.0133792e-06,0.9998557,6.4603475e-05
+No Impairment\28 (33).jpg,No Impairment,No Impairment,2,2,9.7158736e-05,2.9375117e-06,0.99292916,0.00697066
+No Impairment\28 (38).jpg,No Impairment,No Impairment,2,2,0.00256508,3.28007e-05,0.97362787,0.02377428
+No Impairment\28 (39).jpg,No Impairment,No Impairment,2,2,0.00013488161,2.5044637e-06,0.99959886,0.00026368292
+No Impairment\28 (42).jpg,No Impairment,No Impairment,2,2,0.0003968669,1.8832225e-05,0.7871276,0.21245667
+No Impairment\28 (53).jpg,No Impairment,No Impairment,2,2,6.909939e-06,2.5499187e-07,0.9999844,8.49629e-06
+No Impairment\28 (59).jpg,No Impairment,No Impairment,2,2,0.0072537377,8.0649166e-05,0.9823534,0.010312164
+No Impairment\28 (60).jpg,No Impairment,No Impairment,2,2,0.0010486587,2.0684605e-05,0.99827373,0.0006568789
+No Impairment\28 (64).jpg,No Impairment,No Impairment,2,2,0.0074934987,1.009631e-05,0.98969525,0.002801122
+No Impairment\28 (72).jpg,No Impairment,No Impairment,2,2,3.069248e-05,1.2635073e-06,0.9994254,0.00054263783
+No Impairment\28 (73).jpg,No Impairment,No Impairment,2,2,0.00019717225,3.2437486e-06,0.9988659,0.0009337238
+No Impairment\28 (80).jpg,No Impairment,No Impairment,2,2,0.0013755806,1.1704957e-05,0.9972271,0.0013856168
+No Impairment\29 (100).jpg,No Impairment,No Impairment,2,2,0.0002817403,3.9189194e-06,0.99929935,0.00041498514
+No Impairment\29 (14).jpg,No Impairment,No Impairment,2,2,2.9347555e-05,1.2767881e-05,0.9994836,0.00047430894
+No Impairment\29 (15).jpg,No Impairment,No Impairment,2,2,0.12776111,9.4570874e-05,0.7980087,0.07413563
+No Impairment\29 (16).jpg,No Impairment,No Impairment,2,2,4.2512274e-05,2.9481157e-06,0.9985603,0.0013942259
+No Impairment\29 (19).jpg,No Impairment,No Impairment,2,2,2.4031762e-05,1.1151654e-06,0.9999075,6.730331e-05
+No Impairment\29 (20).jpg,No Impairment,No Impairment,2,2,2.7269412e-05,2.68087e-06,0.99987364,9.638188e-05
+No Impairment\29 (29).jpg,No Impairment,No Impairment,2,2,0.41093025,4.255139e-05,0.587513,0.0015141665
+No Impairment\29 (41).jpg,No Impairment,No Impairment,2,2,0.00017618218,3.1634888e-06,0.99773085,0.0020897426
+No Impairment\29 (42).jpg,No Impairment,No Impairment,2,2,0.00044300818,3.374398e-05,0.8903651,0.10915806
+No Impairment\29 (63).jpg,No Impairment,No Impairment,2,2,7.135641e-05,4.2002216e-06,0.9991037,0.0008206198
+No Impairment\29 (64).jpg,No Impairment,No Impairment,2,2,0.0067738034,7.098198e-06,0.9916009,0.0016182676
+No Impairment\29 (67).jpg,No Impairment,No Impairment,2,2,9.702061e-05,2.6109736e-05,0.9980625,0.0018143214
+No Impairment\29 (72).jpg,No Impairment,No Impairment,2,2,4.3925298e-05,2.3527787e-06,0.9996106,0.00034308858
+No Impairment\29 (76).jpg,No Impairment,No Impairment,2,2,8.0552214e-05,5.590434e-06,0.9996025,0.00031138846
+No Impairment\29 (78).jpg,No Impairment,No Impairment,2,2,9.308566e-05,5.8831974e-06,0.9993466,0.00055440457
+No Impairment\29 (79).jpg,No Impairment,No Impairment,2,2,5.771171e-05,5.73166e-06,0.9997269,0.00020973389
+No Impairment\29 (83).jpg,No Impairment,No Impairment,2,2,0.00011934037,5.6589656e-06,0.99971086,0.00016417979
+No Impairment\29 (88).jpg,No Impairment,No Impairment,2,2,0.003878334,4.201998e-05,0.98972875,0.0063509448
+No Impairment\29 (99).jpg,No Impairment,No Impairment,2,2,0.033003766,0.00014240018,0.7833537,0.18350011
+No Impairment\3 (12).jpg,No Impairment,No Impairment,2,2,5.3710442e-05,1.468403e-05,0.9996026,0.00032898196
+No Impairment\3 (13).jpg,No Impairment,No Impairment,2,2,2.3549364e-05,2.0362352e-06,0.99994516,2.9258837e-05
+No Impairment\3 (2).jpg,No Impairment,No Impairment,2,2,0.00023552931,3.1088864e-05,0.99927413,0.00045917727
+No Impairment\3 (20).jpg,No Impairment,No Impairment,2,2,0.0021020789,2.2552915e-05,0.9933648,0.004510564
+No Impairment\3 (32).jpg,No Impairment,No Impairment,2,2,0.003693143,0.00031303754,0.5846701,0.41132373
+No Impairment\3 (35).jpg,No Impairment,No Impairment,2,2,0.00024949238,1.9313262e-05,0.99936235,0.0003688137
+No Impairment\3 (4).jpg,No Impairment,No Impairment,2,2,0.00019256755,5.583773e-05,0.9993656,0.00038596615
+No Impairment\3 (40).jpg,No Impairment,No Impairment,2,2,0.0005034859,0.0001593458,0.99362123,0.005715896
+No Impairment\3 (42).jpg,No Impairment,No Impairment,2,2,0.002165187,7.235563e-05,0.87128437,0.12647802
+No Impairment\3 (43).jpg,No Impairment,No Impairment,2,2,0.0037856542,2.4062945e-05,0.99265987,0.0035304718
+No Impairment\3 (53).jpg,No Impairment,No Impairment,2,2,6.6225504e-05,9.774894e-06,0.99954623,0.0003777169
+No Impairment\3 (58).jpg,No Impairment,No Impairment,2,2,0.00021261621,3.847585e-05,0.99888295,0.0008659689
+No Impairment\3 (59).jpg,No Impairment,No Impairment,2,2,0.00036357035,6.03273e-06,0.9938898,0.0057406
+No Impairment\3 (60).jpg,No Impairment,No Impairment,2,2,3.7216123e-05,4.7824205e-06,0.9978405,0.0021174964
+No Impairment\3 (71).jpg,No Impairment,No Impairment,2,2,0.00030564447,1.6645266e-05,0.99925053,0.00042722147
+No Impairment\3 (78).jpg,No Impairment,No Impairment,2,2,0.0010319429,5.0625455e-05,0.92043304,0.07848437
+No Impairment\3 (8).jpg,No Impairment,No Impairment,2,2,0.00014263159,3.9503043e-06,0.99930066,0.00055272446
+No Impairment\3 (81).jpg,No Impairment,No Impairment,2,2,0.00019217514,1.2678574e-05,0.98446035,0.0153347775
+No Impairment\30 (100).jpg,No Impairment,No Impairment,2,2,0.00032577882,2.4467504e-06,0.9992712,0.00040058265
+No Impairment\30 (11).jpg,No Impairment,No Impairment,2,2,0.0008632226,5.5342804e-05,0.9939337,0.0051478213
+No Impairment\30 (18).jpg,No Impairment,No Impairment,2,2,0.00036947444,5.6741374e-05,0.9164974,0.08307637
+No Impairment\30 (28).jpg,No Impairment,No Impairment,2,2,8.217499e-05,7.0532377e-07,0.9998358,8.1296144e-05
+No Impairment\30 (29).jpg,No Impairment,No Impairment,2,2,0.31273594,5.3807074e-05,0.6824459,0.0047643743
+No Impairment\30 (44).jpg,No Impairment,No Impairment,2,2,0.00014310547,7.162035e-06,0.99934024,0.00050943234
+No Impairment\30 (46).jpg,No Impairment,No Impairment,2,2,3.6575566e-05,1.0462612e-06,0.9994114,0.0005510149
+No Impairment\30 (50).jpg,No Impairment,No Impairment,2,2,0.00024561892,3.168234e-06,0.9925157,0.007235516
+No Impairment\30 (51).jpg,No Impairment,No Impairment,2,2,0.010075284,5.945318e-05,0.940349,0.049516268
+No Impairment\30 (58).jpg,No Impairment,No Impairment,2,2,0.0008256646,5.563708e-06,0.9950839,0.0040849764
+No Impairment\30 (6).jpg,No Impairment,No Impairment,2,2,2.2017315e-05,4.1436806e-06,0.99985474,0.00011907795
+No Impairment\30 (61).jpg,No Impairment,No Impairment,2,2,0.0010070284,3.258373e-05,0.9348329,0.06412758
+No Impairment\30 (64).jpg,No Impairment,No Impairment,2,2,0.052672155,4.855638e-05,0.9100515,0.037227802
+No Impairment\30 (70).jpg,No Impairment,No Impairment,2,2,3.5147572e-05,9.628135e-06,0.99969876,0.0002565421
+No Impairment\30 (75).jpg,No Impairment,No Impairment,2,2,0.0009651359,1.0175062e-06,0.99893796,9.578875e-05
+No Impairment\30 (82).jpg,No Impairment,No Impairment,2,2,0.0002595127,9.168918e-07,0.9996079,0.00013157858
+No Impairment\30 (90).jpg,No Impairment,No Impairment,2,2,0.00018899742,1.306357e-06,0.9991045,0.00070519076
+No Impairment\31 (12).jpg,No Impairment,No Impairment,2,2,0.00025302655,1.1494006e-05,0.9971695,0.0025659627
+No Impairment\31 (15).jpg,No Impairment,No Impairment,2,2,0.0146022765,4.2765474e-05,0.9822033,0.0031516894
+No Impairment\31 (16).jpg,No Impairment,No Impairment,2,2,2.003623e-05,2.985375e-06,0.99964917,0.00032775864
+No Impairment\31 (18).jpg,No Impairment,No Impairment,2,2,0.00047164742,6.4623666e-05,0.81400126,0.1854624
+No Impairment\31 (20).jpg,No Impairment,No Impairment,2,2,7.578668e-06,4.0223327e-07,0.9999739,1.8141669e-05
+No Impairment\31 (21).jpg,No Impairment,No Impairment,2,2,0.03480708,8.852019e-05,0.90793574,0.057168614
+No Impairment\31 (25).jpg,No Impairment,No Impairment,2,2,3.6561014e-05,8.1613223e-07,0.99968225,0.00028039428
+No Impairment\31 (32).jpg,No Impairment,No Impairment,2,2,8.440184e-05,6.1187384e-06,0.9995972,0.0003123355
+No Impairment\31 (4).jpg,No Impairment,No Impairment,2,2,2.8521037e-05,3.7792863e-06,0.9998347,0.00013299423
+No Impairment\31 (40).jpg,No Impairment,No Impairment,2,2,8.9579014e-05,8.481131e-07,0.99983615,7.3438874e-05
+No Impairment\31 (42).jpg,No Impairment,No Impairment,2,2,0.0003061897,3.8418853e-05,0.97177505,0.02788034
+No Impairment\31 (46).jpg,No Impairment,No Impairment,2,2,1.783564e-05,9.254398e-07,0.99982834,0.00015297049
+No Impairment\31 (49).jpg,No Impairment,No Impairment,2,2,0.0028347971,0.00011342105,0.950467,0.04658476
+No Impairment\31 (6).jpg,No Impairment,No Impairment,2,2,2.1830707e-05,3.4675497e-06,0.999833,0.00014166487
+No Impairment\31 (61).jpg,No Impairment,No Impairment,2,2,0.00069080794,5.4807297e-05,0.9107919,0.08846249
+No Impairment\31 (67).jpg,No Impairment,No Impairment,2,2,6.150499e-05,1.490674e-05,0.9995802,0.00034348044
+No Impairment\31 (68).jpg,No Impairment,No Impairment,2,2,0.0009549193,2.9920034e-06,0.9985522,0.0004898183
+No Impairment\31 (71).jpg,No Impairment,No Impairment,2,2,0.0037317262,1.8384624e-05,0.97487897,0.021370899
+No Impairment\31 (72).jpg,No Impairment,No Impairment,2,2,0.00012892022,1.2667717e-05,0.9987011,0.0011572915
+No Impairment\31 (73).jpg,No Impairment,No Impairment,2,2,9.8225006e-05,7.4617543e-07,0.99980927,9.1831855e-05
+No Impairment\31 (74).jpg,No Impairment,No Impairment,2,2,0.11434622,7.388035e-05,0.88110274,0.004477223
+No Impairment\31 (80).jpg,No Impairment,No Impairment,2,2,0.00023460606,5.3768504e-06,0.9994577,0.00030232637
+No Impairment\31 (82).jpg,No Impairment,No Impairment,2,2,0.012673343,6.9021926e-06,0.9846258,0.0026940112
+No Impairment\31 (83).jpg,No Impairment,No Impairment,2,2,0.0008229442,6.9689727e-06,0.99901664,0.00015346214
+No Impairment\31 (88).jpg,No Impairment,No Impairment,2,2,0.00020434835,7.133241e-06,0.9994577,0.0003307382
+No Impairment\31 (92).jpg,No Impairment,No Impairment,2,2,0.0045093154,7.191652e-05,0.99233514,0.0030836521
+No Impairment\31 (96).jpg,No Impairment,No Impairment,2,2,2.4714176e-05,5.6550343e-06,0.99980354,0.00016614127
+No Impairment\31 (97).jpg,No Impairment,No Impairment,2,2,6.7309455e-05,6.462885e-06,0.9988133,0.0011129543
+No Impairment\31 (99).jpg,No Impairment,No Impairment,2,2,0.021130012,7.3689866e-05,0.68436515,0.29443115
+No Impairment\32 (12).jpg,No Impairment,No Impairment,2,2,0.0001870814,6.0148327e-06,0.9992285,0.0005784771
+No Impairment\32 (2).jpg,No Impairment,No Impairment,2,2,4.7074234e-05,4.4281064e-06,0.9998711,7.748235e-05
+No Impairment\32 (20).jpg,No Impairment,No Impairment,2,2,4.0710944e-05,3.9195056e-06,0.99985135,0.00010404565
+No Impairment\32 (22).jpg,No Impairment,No Impairment,2,2,0.00016956331,3.480408e-05,0.9932785,0.0065171183
+No Impairment\32 (23).jpg,No Impairment,No Impairment,2,2,0.40667325,0.00032685432,0.4882428,0.104757115
+No Impairment\32 (32).jpg,No Impairment,No Impairment,2,2,6.958634e-05,7.1271106e-06,0.99958974,0.0003335449
+No Impairment\32 (36).jpg,No Impairment,No Impairment,2,2,0.00013564352,1.759168e-05,0.9986919,0.0011548359
+No Impairment\32 (39).jpg,No Impairment,No Impairment,2,2,0.00028593204,7.822988e-06,0.9986332,0.0010730544
+No Impairment\32 (41).jpg,No Impairment,No Impairment,2,2,0.00018256236,4.2578417e-06,0.99896747,0.0008457466
+No Impairment\32 (45).jpg,No Impairment,No Impairment,2,2,0.001292848,4.2543043e-06,0.9980974,0.00060534914
+No Impairment\32 (5).jpg,No Impairment,No Impairment,2,2,0.011888073,5.30958e-05,0.85144407,0.1366148
+No Impairment\32 (50).jpg,No Impairment,No Impairment,2,2,0.00040626767,4.746215e-06,0.9896557,0.00993334
+No Impairment\32 (52).jpg,No Impairment,No Impairment,2,2,0.008553135,6.826867e-05,0.8017702,0.18960834
+No Impairment\32 (59).jpg,No Impairment,No Impairment,2,2,0.0022020873,6.374861e-05,0.86043006,0.13730416
+No Impairment\32 (62).jpg,No Impairment,No Impairment,2,2,0.0020437657,0.000114356444,0.97762746,0.020214368
+No Impairment\32 (63).jpg,No Impairment,No Impairment,2,2,2.8628045e-05,5.873642e-06,0.9993917,0.00057387503
+No Impairment\32 (65).jpg,No Impairment,Mild Impairment,2,0,0.53257906,0.00051807193,0.22707522,0.23982763
+No Impairment\32 (66).jpg,No Impairment,No Impairment,2,2,8.226016e-05,2.0234766e-05,0.99943817,0.0004593068
+No Impairment\32 (8).jpg,No Impairment,No Impairment,2,2,0.00015981914,3.740372e-06,0.999735,0.00010151735
+No Impairment\32 (83).jpg,No Impairment,No Impairment,2,2,0.00015655748,7.657645e-07,0.99980986,3.2828528e-05
+No Impairment\32 (90).jpg,No Impairment,No Impairment,2,2,0.00030541778,1.2320456e-06,0.999279,0.0004143374
+No Impairment\32 (91).jpg,No Impairment,No Impairment,2,2,3.0982585e-06,3.4030262e-07,0.99997884,1.7730763e-05
+No Impairment\32 (92).jpg,No Impairment,No Impairment,2,2,0.0012945004,9.355276e-05,0.99422437,0.004387603
+No Impairment\32 (94).jpg,No Impairment,No Impairment,2,2,0.00032262594,7.37729e-07,0.9995763,0.00010032527
+No Impairment\4 (20).jpg,No Impairment,No Impairment,2,2,0.000931502,2.9100973e-05,0.99315786,0.005881578
+No Impairment\4 (30).jpg,No Impairment,No Impairment,2,2,0.00017739573,3.336396e-05,0.99889433,0.00089490914
+No Impairment\4 (32).jpg,No Impairment,No Impairment,2,2,0.005820504,0.0003287512,0.87949353,0.114357196
+No Impairment\4 (33).jpg,No Impairment,No Impairment,2,2,0.00012066351,2.259056e-05,0.9991196,0.00073718204
+No Impairment\4 (35).jpg,No Impairment,No Impairment,2,2,0.00013951355,1.2608527e-05,0.9995502,0.00029765957
+No Impairment\4 (37).jpg,No Impairment,No Impairment,2,2,0.00023135096,1.6945847e-05,0.9992539,0.0004977186
+No Impairment\4 (44).jpg,No Impairment,No Impairment,2,2,0.0012141805,2.9693547e-05,0.9968635,0.0018926645
+No Impairment\4 (51).jpg,No Impairment,No Impairment,2,2,0.017461598,0.00020921158,0.96833354,0.013995658
+No Impairment\4 (52).jpg,No Impairment,No Impairment,2,2,0.016141515,1.9670699e-05,0.9797288,0.004110102
+No Impairment\4 (53).jpg,No Impairment,No Impairment,2,2,4.9430084e-05,8.414534e-06,0.99963105,0.00031113223
+No Impairment\4 (55).jpg,No Impairment,No Impairment,2,2,0.20151334,9.088505e-05,0.79422146,0.004174302
+No Impairment\4 (57).jpg,No Impairment,No Impairment,2,2,0.0010250839,0.00020427788,0.94027674,0.05849393
+No Impairment\4 (67).jpg,No Impairment,No Impairment,2,2,0.17965841,0.00010805045,0.813365,0.006868469
+No Impairment\4 (69).jpg,No Impairment,No Impairment,2,2,0.0067993104,0.00017305349,0.9665637,0.026463877
+No Impairment\4 (73).jpg,No Impairment,No Impairment,2,2,0.00019161844,1.660508e-05,0.9982077,0.0015840533
+No Impairment\4 (76).jpg,No Impairment,No Impairment,2,2,0.00047377744,6.4759275e-05,0.9955245,0.0039369236
+No Impairment\4 (77).jpg,No Impairment,No Impairment,2,2,0.00020891419,1.9242365e-05,0.99886715,0.00090473035
+No Impairment\4 (8).jpg,No Impairment,No Impairment,2,2,6.703038e-05,4.6683717e-06,0.99943477,0.0004935532
+No Impairment\4 (80).jpg,No Impairment,No Impairment,2,2,0.00012421438,1.8095334e-05,0.99846804,0.0013896448
+No Impairment\4 (87).jpg,No Impairment,No Impairment,2,2,0.00024164797,6.524245e-05,0.99498844,0.0047047175
+No Impairment\4 (90).jpg,No Impairment,No Impairment,2,2,0.00053676195,1.3186944e-05,0.9948572,0.0045928415
+No Impairment\4 (93).jpg,No Impairment,No Impairment,2,2,6.421077e-05,2.2947566e-05,0.99939185,0.00052099413
+No Impairment\4 (97).jpg,No Impairment,No Impairment,2,2,0.00024841976,2.284021e-05,0.998511,0.0012177023
+No Impairment\4.jpg,No Impairment,No Impairment,2,2,0.00039797215,3.892089e-05,0.98306924,0.016493862
+No Impairment\5 (23).jpg,No Impairment,No Impairment,2,2,0.0012000244,3.1220974e-05,0.99775755,0.0010112562
+No Impairment\5 (24).jpg,No Impairment,No Impairment,2,2,3.9955998e-05,2.3088424e-07,0.9996597,0.00030012723
+No Impairment\5 (25).jpg,No Impairment,No Impairment,2,2,0.0005587055,2.22821e-05,0.99892724,0.00049178273
+No Impairment\5 (30).jpg,No Impairment,No Impairment,2,2,0.0005424166,0.00011762955,0.9955743,0.0037656757
+No Impairment\5 (31).jpg,No Impairment,No Impairment,2,2,0.0001336029,3.2199703e-06,0.99849665,0.001366558
+No Impairment\5 (38).jpg,No Impairment,No Impairment,2,2,0.00016358218,2.9477422e-05,0.996226,0.0035808925
+No Impairment\5 (39).jpg,No Impairment,No Impairment,2,2,0.00033443008,1.9002142e-05,0.99934113,0.0003054924
+No Impairment\5 (41).jpg,No Impairment,No Impairment,2,2,0.0031306413,0.00018185088,0.9223282,0.07435928
+No Impairment\5 (45).jpg,No Impairment,No Impairment,2,2,0.010982596,9.053296e-05,0.9843742,0.004552615
+No Impairment\5 (48).jpg,No Impairment,No Impairment,2,2,2.8489696e-05,8.421586e-06,0.9994419,0.000521161
+No Impairment\5 (5).jpg,No Impairment,No Impairment,2,2,0.0002667041,3.1692947e-05,0.99929476,0.00040684006
+No Impairment\5 (52).jpg,No Impairment,No Impairment,2,2,0.001478615,2.2348071e-05,0.987049,0.011450021
+No Impairment\5 (54).jpg,No Impairment,No Impairment,2,2,0.00012459474,1.5749749e-05,0.99957323,0.000286394
+No Impairment\5 (55).jpg,No Impairment,No Impairment,2,2,0.3238755,0.000271489,0.66808915,0.007763914
+No Impairment\5 (56).jpg,No Impairment,No Impairment,2,2,5.5065524e-05,1.38720525e-05,0.9996309,0.00030007763
+No Impairment\5 (60).jpg,No Impairment,No Impairment,2,2,5.1046343e-05,8.236566e-06,0.9978138,0.0021269661
+No Impairment\5 (63).jpg,No Impairment,No Impairment,2,2,9.652932e-05,9.527649e-06,0.99914217,0.00075173925
+No Impairment\5 (68).jpg,No Impairment,No Impairment,2,2,4.0051247e-05,6.2569875e-06,0.99983203,0.00012168034
+No Impairment\5 (74).jpg,No Impairment,No Impairment,2,2,0.0005290351,2.9208642e-05,0.91969043,0.07975137
+No Impairment\5 (80).jpg,No Impairment,No Impairment,2,2,0.00025559188,2.330542e-05,0.8064672,0.19325398
+No Impairment\5 (85).jpg,No Impairment,No Impairment,2,2,4.0266706e-05,1.7127082e-05,0.9994141,0.00052856724
+No Impairment\5 (86).jpg,No Impairment,No Impairment,2,2,6.355514e-05,1.8899938e-05,0.99942195,0.00049547444
+No Impairment\6 (13).jpg,No Impairment,No Impairment,2,2,0.0025326281,7.262637e-05,0.9666217,0.030773053
+No Impairment\6 (16).jpg,No Impairment,No Impairment,2,2,0.0002542258,4.3807377e-05,0.8795001,0.120201804
+No Impairment\6 (17).jpg,No Impairment,No Impairment,2,2,0.00407346,0.00016500747,0.9909341,0.004827376
+No Impairment\6 (25).jpg,No Impairment,No Impairment,2,2,0.00022023353,8.44544e-06,0.9994952,0.00027609593
+No Impairment\6 (40).jpg,No Impairment,No Impairment,2,2,0.0014608694,0.00012275498,0.93943083,0.0589856
+No Impairment\6 (43).jpg,No Impairment,No Impairment,2,2,8.09733e-05,7.937512e-06,0.9992859,0.00062516413
+No Impairment\6 (45).jpg,No Impairment,No Impairment,2,2,0.0035921265,5.8756435e-05,0.99571276,0.0006363747
+No Impairment\6 (61).jpg,No Impairment,No Impairment,2,2,0.013423172,0.00041124114,0.6789984,0.30716723
+No Impairment\6 (66).jpg,No Impairment,No Impairment,2,2,0.00028464178,2.136374e-05,0.99821234,0.0014816432
+No Impairment\6 (7).jpg,No Impairment,No Impairment,2,2,0.0004950031,3.7918355e-05,0.9874183,0.012048864
+No Impairment\6 (78).jpg,No Impairment,No Impairment,2,2,0.0011904382,5.7256344e-05,0.9220886,0.0766637
+No Impairment\6 (80).jpg,No Impairment,No Impairment,2,2,9.3130584e-05,1.0477745e-05,0.9986927,0.0012036901
+No Impairment\6 (81).jpg,No Impairment,No Impairment,2,2,0.0006448582,2.5353434e-05,0.8315592,0.16777056
+No Impairment\6 (82).jpg,No Impairment,No Impairment,2,2,0.000111066176,1.436316e-05,0.9983102,0.0015643289
+No Impairment\6 (92).jpg,No Impairment,No Impairment,2,2,0.00033201845,6.737684e-05,0.9936,0.006000706
+No Impairment\7 (17).jpg,No Impairment,No Impairment,2,2,0.39031294,0.0025824811,0.3998385,0.20726609
+No Impairment\7 (30).jpg,No Impairment,No Impairment,2,2,0.00030743043,7.433875e-05,0.9878761,0.011742063
+No Impairment\7 (34).jpg,No Impairment,No Impairment,2,2,0.00025050368,1.9405375e-05,0.998841,0.0008890773
+No Impairment\7 (40).jpg,No Impairment,No Impairment,2,2,0.0013327615,0.00018513246,0.9425324,0.05594971
+No Impairment\7 (46).jpg,No Impairment,No Impairment,2,2,0.00018331237,7.3342285e-06,0.9985012,0.0013080451
+No Impairment\7 (54).jpg,No Impairment,No Impairment,2,2,0.00022053605,6.265239e-06,0.99951375,0.0002594885
+No Impairment\7 (64).jpg,No Impairment,No Impairment,2,2,0.00013433627,2.9446837e-05,0.9990779,0.00075835217
+No Impairment\7 (72).jpg,No Impairment,No Impairment,2,2,0.0008846595,1.6793983e-05,0.991354,0.007744599
+No Impairment\7 (74).jpg,No Impairment,No Impairment,2,2,0.009493478,0.000161686,0.6541213,0.33622357
+No Impairment\7 (77).jpg,No Impairment,No Impairment,2,2,0.0002744395,3.325301e-05,0.99749935,0.0021928938
+No Impairment\7 (89).jpg,No Impairment,No Impairment,2,2,8.317297e-05,1.6911936e-05,0.9993439,0.00055608805
+No Impairment\7 (95).jpg,No Impairment,No Impairment,2,2,0.00091401784,6.340825e-05,0.97527647,0.023746079
+No Impairment\8 (12).jpg,No Impairment,No Impairment,2,2,0.000259482,4.549986e-05,0.9985941,0.0011009302
+No Impairment\8 (18).jpg,No Impairment,No Impairment,2,2,0.0003636907,1.9698715e-05,0.996284,0.0033327136
+No Impairment\8 (23).jpg,No Impairment,No Impairment,2,2,0.0044149873,3.1154963e-05,0.9847516,0.01080223
+No Impairment\8 (26).jpg,No Impairment,No Impairment,2,2,9.882202e-05,1.999913e-05,0.9997446,0.0001366384
+No Impairment\8 (30).jpg,No Impairment,No Impairment,2,2,0.00030046835,0.00010060598,0.9982642,0.0013348298
+No Impairment\8 (41).jpg,No Impairment,No Impairment,2,2,0.0009631243,7.886348e-05,0.98770845,0.011249641
+No Impairment\8 (45).jpg,No Impairment,No Impairment,2,2,0.00022434528,3.6332472e-06,0.998782,0.0009901213
+No Impairment\8 (47).jpg,No Impairment,No Impairment,2,2,0.00014103387,4.2182764e-05,0.9959973,0.0038194414
+No Impairment\8 (59).jpg,No Impairment,No Impairment,2,2,0.00019414668,7.4948302e-06,0.99941254,0.00038582366
+No Impairment\8 (78).jpg,No Impairment,No Impairment,2,2,0.0006439221,6.0368453e-05,0.9974777,0.0018179271
+No Impairment\8 (80).jpg,No Impairment,No Impairment,2,2,0.00025986184,2.3021257e-05,0.99576104,0.0039561084
+No Impairment\8 (84).jpg,No Impairment,No Impairment,2,2,0.00024576974,3.1737374e-05,0.7902926,0.20942982
+No Impairment\8 (88).jpg,No Impairment,No Impairment,2,2,0.00011652176,2.3693717e-06,0.99970114,0.00018006118
+No Impairment\8 (9).jpg,No Impairment,No Impairment,2,2,0.0049073515,1.17112295e-05,0.9945799,0.0005010495
+No Impairment\9 (11).jpg,No Impairment,No Impairment,2,2,0.000109042274,2.6872784e-05,0.99905366,0.0008103844
+No Impairment\9 (16).jpg,No Impairment,No Impairment,2,2,0.00016516433,8.019451e-06,0.99939907,0.00042768946
+No Impairment\9 (17).jpg,No Impairment,No Impairment,2,2,0.17587636,0.00019821769,0.7717589,0.052166533
+No Impairment\9 (19).jpg,No Impairment,No Impairment,2,2,0.00020393997,2.1100805e-06,0.99925864,0.0005353656
+No Impairment\9 (20).jpg,No Impairment,No Impairment,2,2,0.00056783005,6.379343e-05,0.77325803,0.22611031
+No Impairment\9 (28).jpg,No Impairment,No Impairment,2,2,8.989973e-05,9.560623e-06,0.9991392,0.0007613101
+No Impairment\9 (39).jpg,No Impairment,No Impairment,2,2,0.00058968586,1.0466023e-05,0.9990045,0.00039536593
+No Impairment\9 (5).jpg,No Impairment,No Impairment,2,2,5.981529e-05,1.7640665e-05,0.99978083,0.00014170587
+No Impairment\9 (50).jpg,No Impairment,No Impairment,2,2,0.0013685776,3.018965e-05,0.9983784,0.00022289227
+No Impairment\9 (57).jpg,No Impairment,No Impairment,2,2,0.0011697877,0.00012184646,0.93204147,0.06666686
+No Impairment\9 (60).jpg,No Impairment,No Impairment,2,2,6.3094834e-05,9.215922e-06,0.99935836,0.00056931394
+No Impairment\9 (62).jpg,No Impairment,No Impairment,2,2,0.0011864768,8.046393e-05,0.9710665,0.027666565
+No Impairment\9 (66).jpg,No Impairment,No Impairment,2,2,0.00044540767,2.7221395e-05,0.9973649,0.002162456
+No Impairment\9 (69).jpg,No Impairment,No Impairment,2,2,0.0009122109,3.3759938e-05,0.9581335,0.040920507
+No Impairment\9 (7).jpg,No Impairment,No Impairment,2,2,0.0043749213,0.00025234485,0.78466564,0.21070707
+No Impairment\9 (70).jpg,No Impairment,No Impairment,2,2,0.00046536402,4.2176376e-05,0.80155486,0.19793765
+No Impairment\9 (71).jpg,No Impairment,No Impairment,2,2,0.000607888,4.2196058e-05,0.9930663,0.006283621
+No Impairment\9 (75).jpg,No Impairment,No Impairment,2,2,4.962457e-05,1.9899085e-06,0.9901782,0.009770212
+No Impairment\9 (76).jpg,No Impairment,No Impairment,2,2,0.00053635857,7.0249676e-05,0.9958215,0.0035718605
+No Impairment\9 (77).jpg,No Impairment,No Impairment,2,2,0.00059733965,0.0001228679,0.9961459,0.0031338974
+No Impairment\9 (8).jpg,No Impairment,No Impairment,2,2,2.9770972e-05,2.577402e-06,0.99839145,0.0015761917
+No Impairment\9 (87).jpg,No Impairment,No Impairment,2,2,0.00022219137,5.0405255e-05,0.99784106,0.0018862833
+No Impairment\9 (9).jpg,No Impairment,No Impairment,2,2,0.0022025513,1.0413192e-05,0.99712247,0.0006645978
+No Impairment\9 (93).jpg,No Impairment,No Impairment,2,2,0.0010479155,4.7792666e-05,0.94544935,0.053454924
+No Impairment\9 (95).jpg,No Impairment,No Impairment,2,2,2.2441629e-05,2.6049124e-06,0.9998325,0.00014241929
+Very Mild Impairment\1 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00069602893,5.7293597e-05,0.08211526,0.9171314
+Very Mild Impairment\1 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.023420136,0.0023551385,0.25121167,0.72301304
+Very Mild Impairment\1 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014840127,8.464985e-05,0.0063319476,0.99209946
+Very Mild Impairment\1 (2).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00017081252,6.9779608e-06,0.00019570375,0.9996265
+Very Mild Impairment\1 (21).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0016042046,0.00085595425,0.12755904,0.8699808
+Very Mild Impairment\1 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0012442933,5.9277634e-05,0.38662872,0.6120677
+Very Mild Impairment\1 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0044533922,8.985456e-05,0.003864583,0.9915921
+Very Mild Impairment\1 (35).jpg,Very Mild Impairment,No Impairment,3,2,0.011209569,0.00023005379,0.77305895,0.21550138
+Very Mild Impairment\1 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0031167585,0.00011069777,0.25675333,0.74001914
+Very Mild Impairment\1 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.047509458,0.0006421319,0.048766974,0.9030814
+Very Mild Impairment\1 (41).jpg,Very Mild Impairment,No Impairment,3,2,0.0053628157,0.000117559466,0.67968166,0.314838
+Very Mild Impairment\1 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00045308453,7.948409e-05,0.0153057035,0.98416173
+Very Mild Impairment\1 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0023339025,5.0025566e-05,0.027256012,0.9703601
+Very Mild Impairment\1 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011146027,6.3575084e-05,0.24079442,0.7580274
+Very Mild Impairment\1 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0024985948,0.00022469866,0.0019180442,0.99535865
+Very Mild Impairment\1 (8).jpg,Very Mild Impairment,No Impairment,3,2,0.00077229954,8.8590066e-05,0.7637838,0.23535526
+Very Mild Impairment\1 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0003038007,1.6138361e-05,0.00065344665,0.99902666
+Very Mild Impairment\10 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.005742494,0.0001599221,0.018919189,0.97517836
+Very Mild Impairment\10 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00059020537,6.5558015e-05,0.011951888,0.9873923
+Very Mild Impairment\10 (21).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003786244,0.00019638399,0.0009774498,0.99503994
+Very Mild Impairment\10 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00019338838,3.2672146e-05,0.0003532289,0.99942064
+Very Mild Impairment\10 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.057152748,0.000624348,0.1520214,0.79020154
+Very Mild Impairment\10 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.05353893,0.0009190962,0.033492647,0.9120493
+Very Mild Impairment\10 (48).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00035989116,1.40984075e-05,0.061368577,0.9382574
+Very Mild Impairment\10 (49).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0073345676,0.00016406024,0.2503197,0.74218166
+Very Mild Impairment\10 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.021322038,3.6119665e-05,0.009343931,0.9692979
+Very Mild Impairment\10 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002520349,8.9447014e-05,0.19152479,0.8058654
+Very Mild Impairment\10 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.23341122,0.00064665434,0.027872602,0.7380695
+Very Mild Impairment\11 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00015004977,6.093479e-06,0.0075215413,0.9923223
+Very Mild Impairment\11 (2).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0001373839,6.1192795e-06,0.001717338,0.9981392
+Very Mild Impairment\11 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009172363,0.00024537634,0.24118681,0.7493955
+Very Mild Impairment\11 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00043997914,1.8694158e-05,0.00851174,0.9910296
+Very Mild Impairment\11 (33).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00034503284,1.6392725e-05,0.000575603,0.999063
+Very Mild Impairment\11 (38).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00017710493,4.0830408e-05,0.00010242424,0.9996797
+Very Mild Impairment\11 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.10956441,0.00031384034,0.0035142594,0.88660747
+Very Mild Impairment\11 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.014395113,0.0010342887,0.016943336,0.96762735
+Very Mild Impairment\11 (46).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0010561205,2.9861909e-05,0.0008028828,0.99811107
+Very Mild Impairment\11 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0044376017,1.9322271e-05,0.0014976844,0.9940454
+Very Mild Impairment\11 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019490212,3.796253e-05,0.08492488,0.91308814
+Very Mild Impairment\11 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00021120107,5.4934302e-05,0.0023478132,0.997386
+Very Mild Impairment\11 (65).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0003587943,1.4427154e-05,0.16196449,0.83766234
+Very Mild Impairment\11 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0012139773,0.00014276148,0.007731592,0.99091166
+Very Mild Impairment\12 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03364072,0.0005951666,0.008621319,0.95714283
+Very Mild Impairment\12 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00026343323,2.1057544e-05,0.0005679786,0.9991476
+Very Mild Impairment\12 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00067536003,8.098087e-05,0.027954018,0.97128963
+Very Mild Impairment\12 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.015091507,0.00015870976,0.0829143,0.90183544
+Very Mild Impairment\12 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014581257,0.0001003527,0.0052337083,0.9932078
+Very Mild Impairment\12 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00051071215,5.0163526e-05,0.25308394,0.7463552
+Very Mild Impairment\12 (36).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003382219,7.375345e-05,0.004185683,0.9923583
+Very Mild Impairment\12 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00700076,9.880033e-05,0.008124503,0.9847759
+Very Mild Impairment\12 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03831039,5.5160577e-05,0.0004269885,0.96120757
+Very Mild Impairment\12 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.007965516,0.00021261156,0.29752392,0.69429797
+Very Mild Impairment\13 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016316893,0.000511616,0.022846615,0.9603249
+Very Mild Impairment\13 (12).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.01584502,0.00017827959,0.0057026157,0.97827405
+Very Mild Impairment\13 (14).jpg,Very Mild Impairment,No Impairment,3,2,0.0050726454,5.0110568e-05,0.62524873,0.36962852
+Very Mild Impairment\13 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00024613948,2.1655196e-05,0.004818571,0.9949137
+Very Mild Impairment\13 (39).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00040460812,3.064372e-05,0.0006710083,0.99889374
+Very Mild Impairment\13 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002431897,7.183347e-05,0.0032029818,0.9942932
+Very Mild Impairment\13 (5).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.011307549,0.0004816008,0.14199136,0.8462194
+Very Mild Impairment\13 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0018676973,4.340463e-05,0.0036712692,0.99441755
+Very Mild Impairment\13 (58).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00037583435,1.0444008e-05,0.000188849,0.99942493
+Very Mild Impairment\13 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.008151362,0.00024453786,0.006787633,0.98481655
+Very Mild Impairment\13 (6).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015708411,0.00028972584,0.26325268,0.73488677
+Very Mild Impairment\13 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00094088167,5.6485052e-05,0.0020254548,0.9969772
+Very Mild Impairment\13 (70).jpg,Very Mild Impairment,No Impairment,3,2,0.005658443,0.00017969054,0.58322257,0.41093928
+Very Mild Impairment\13 (8).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00020376602,3.9037644e-05,0.0014064077,0.9983508
+Very Mild Impairment\14 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.025527671,0.00081283844,0.005646431,0.9680131
+Very Mild Impairment\14 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009146667,8.383418e-05,0.4844485,0.506321
+Very Mild Impairment\14 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0050807954,0.00019497695,0.025330102,0.9693941
+Very Mild Impairment\14 (3).jpg,Very Mild Impairment,No Impairment,3,2,0.0008398959,2.0340907e-05,0.53856766,0.4605721
+Very Mild Impairment\14 (38).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.008520251,0.00015186435,0.031400625,0.95992726
+Very Mild Impairment\14 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.006932502,0.00010259653,0.009380238,0.9835847
+Very Mild Impairment\14 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00016387182,9.661969e-06,4.3367945e-05,0.99978316
+Very Mild Impairment\14 (53).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.41590348,9.8512995e-05,0.00069809705,0.58329993
+Very Mild Impairment\14 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.06608143,8.281048e-05,0.004837581,0.9289982
+Very Mild Impairment\14 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.4683376,0.00049574766,0.032348957,0.49881774
+Very Mild Impairment\14 (62).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0058374563,0.00021600867,0.027856331,0.9660902
+Very Mild Impairment\14 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0018582568,0.00014954282,0.10152628,0.89646596
+Very Mild Impairment\14 (70).jpg,Very Mild Impairment,No Impairment,3,2,0.014423706,0.00037447628,0.55567884,0.42952293
+Very Mild Impairment\14 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0001277577,1.1149508e-05,0.00028288708,0.9995782
+Very Mild Impairment\15 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.02144822,0.0004739198,0.026836455,0.9512414
+Very Mild Impairment\15 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00034880117,1.193494e-05,0.0009012325,0.998738
+Very Mild Impairment\15 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.027419126,5.149892e-05,0.015053417,0.957476
+Very Mild Impairment\15 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004695416,0.00023029992,0.09541899,0.89965534
+Very Mild Impairment\15 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00384469,0.00011219464,0.20768711,0.78835607
+Very Mild Impairment\15 (35).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0092330575,0.000111517285,0.013928513,0.97672683
+Very Mild Impairment\15 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0004079504,1.2194823e-05,0.03912386,0.9604561
+Very Mild Impairment\15 (52).jpg,Very Mild Impairment,No Impairment,3,2,0.016675252,9.303198e-05,0.86558944,0.11764236
+Very Mild Impairment\15 (53).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.21447459,0.000117192205,0.00051517144,0.78489304
+Very Mild Impairment\15 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0005105488,2.1503081e-05,0.20394054,0.7955274
+Very Mild Impairment\15 (70).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.008858013,0.0003494504,0.09968116,0.8911115
+Very Mild Impairment\16 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00075347465,4.3948334e-05,0.0031751338,0.99602747
+Very Mild Impairment\16 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0043153614,9.3113966e-05,0.032502208,0.9630893
+Very Mild Impairment\16 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0046471427,0.00013717773,0.29235676,0.702859
+Very Mild Impairment\16 (29).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0001303239,1.3030149e-05,3.3073513e-05,0.9998236
+Very Mild Impairment\16 (3).jpg,Very Mild Impairment,No Impairment,3,2,0.0007331401,2.0557742e-05,0.8217055,0.1775408
+Very Mild Impairment\16 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.028416196,0.00025178434,0.21337111,0.7579609
+Very Mild Impairment\16 (50).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0021005217,0.00042117527,0.20764728,0.78983104
+Very Mild Impairment\16 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00039793635,1.29445125e-05,0.0010518845,0.99853724
+Very Mild Impairment\16 (61).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007594712,1.2964086e-05,0.24956462,0.74966294
+Very Mild Impairment\16 (62).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0025249824,7.58157e-05,0.00495161,0.9924477
+Very Mild Impairment\16 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.008187912,0.00046428526,0.39519492,0.5961529
+Very Mild Impairment\16 (65).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019912864,9.5319745e-05,0.017944375,0.979969
+Very Mild Impairment\16 (70).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019735193,0.00018670576,0.016623527,0.9812163
+Very Mild Impairment\17 (16).jpg,Very Mild Impairment,No Impairment,3,2,0.25421616,0.0005023641,0.5125115,0.23276994
+Very Mild Impairment\17 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.036907025,3.0292436e-05,0.005019647,0.9580431
+Very Mild Impairment\17 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.093466565,0.00022965942,0.31549847,0.59080535
+Very Mild Impairment\17 (3).jpg,Very Mild Impairment,No Impairment,3,2,0.0016010406,3.059168e-05,0.5106112,0.4877572
+Very Mild Impairment\17 (45).jpg,Very Mild Impairment,Mild Impairment,3,0,0.7094286,0.0010606023,0.24889171,0.04061905
+Very Mild Impairment\17 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002336964,6.598739e-05,0.09288411,0.904713
+Very Mild Impairment\17 (49).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013186991,0.00017421418,0.008458817,0.9900482
+Very Mild Impairment\17 (65).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00110039,6.32857e-05,0.0065872,0.99224913
+Very Mild Impairment\17 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002147855,2.9433399e-05,0.00037029857,0.9993855
+Very Mild Impairment\17 (68).jpg,Very Mild Impairment,No Impairment,3,2,0.03278383,8.584151e-05,0.7974419,0.16968843
+Very Mild Impairment\17 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0027783904,8.325754e-05,0.34751576,0.6496226
+Very Mild Impairment\17 (7).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.11187825,0.00032460658,0.2768951,0.610902
+Very Mild Impairment\18 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009606288,8.2590035e-05,0.06589993,0.9244112
+Very Mild Impairment\18 (16).jpg,Very Mild Impairment,No Impairment,3,2,0.014207376,0.00017032292,0.80461466,0.18100768
+Very Mild Impairment\18 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00074912707,9.7314696e-05,0.44688854,0.55226505
+Very Mild Impairment\18 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.07337789,0.00040791632,0.012945905,0.91326827
+Very Mild Impairment\18 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0046048416,0.00017310216,0.18837038,0.8068517
+Very Mild Impairment\18 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002875912,1.0218858e-05,0.00036966213,0.99933255
+Very Mild Impairment\18 (36).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.01666763,0.00036510103,0.0046470845,0.97832024
+Very Mild Impairment\18 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0037140101,6.621041e-05,0.017674433,0.97854537
+Very Mild Impairment\18 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00045135882,4.1987005e-05,0.022765998,0.97674066
+Very Mild Impairment\18 (43).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.09128345,0.00012774109,0.011291051,0.89729774
+Very Mild Impairment\18 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0008211755,0.00010089434,0.0053414707,0.99373645
+Very Mild Impairment\18 (45).jpg,Very Mild Impairment,No Impairment,3,2,0.22498715,0.00046761907,0.73819333,0.036351934
+Very Mild Impairment\18 (55).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.28964323,0.00028441809,0.0018364508,0.7082359
+Very Mild Impairment\18 (61).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00069333054,1.8422525e-05,0.21585603,0.78343225
+Very Mild Impairment\18 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003484578,0.00068659015,0.08982201,0.9060068
+Very Mild Impairment\18 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0005200435,9.1472e-05,0.0014785418,0.9979099
+Very Mild Impairment\18 (7).jpg,Very Mild Impairment,No Impairment,3,2,0.07728235,0.00027575428,0.5753681,0.3470738
+Very Mild Impairment\18 (70).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.001467389,0.00014979353,0.01332227,0.9850606
+Very Mild Impairment\19 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0038967144,6.2801475e-05,0.0013352605,0.9947053
+Very Mild Impairment\19 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0005953314,2.9692546e-05,0.01749846,0.98187655
+Very Mild Impairment\19 (21).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.018943341,0.00030832115,0.012688542,0.96805984
+Very Mild Impairment\19 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.045702808,0.00025448264,0.00198988,0.9520529
+Very Mild Impairment\19 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0036335879,0.000253344,0.31959736,0.6765157
+Very Mild Impairment\19 (32).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0016421427,0.00013375004,0.042858668,0.9553655
+Very Mild Impairment\19 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004068516,5.0527568e-05,0.38867465,0.6072063
+Very Mild Impairment\19 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002727323,2.0434023e-05,0.053185977,0.9465208
+Very Mild Impairment\19 (52).jpg,Very Mild Impairment,No Impairment,3,2,0.0012439473,2.9139279e-05,0.7895626,0.20916426
+Very Mild Impairment\19 (6).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015425654,0.00043429452,0.45272937,0.5452937
+Very Mild Impairment\19 (61).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.001279485,4.023553e-05,0.43579778,0.56288254
+Very Mild Impairment\19 (7).jpg,Very Mild Impairment,No Impairment,3,2,0.025700647,0.00020437318,0.5106484,0.46344653
+Very Mild Impairment\2 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00539814,7.134426e-05,0.0058064526,0.98872405
+Very Mild Impairment\2 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0028676824,0.000104223494,0.20354113,0.79348695
+Very Mild Impairment\2 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.001438591,0.00011114633,0.10042076,0.8980295
+Very Mild Impairment\2 (19).jpg,Very Mild Impairment,No Impairment,3,2,0.0010645546,8.504428e-05,0.55700696,0.44184342
+Very Mild Impairment\2 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00468723,0.00033064114,0.029346997,0.9656351
+Very Mild Impairment\2 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0055862097,0.00019644522,0.011814545,0.9824028
+Very Mild Impairment\2 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0005021807,3.0483328e-05,0.023363383,0.9761039
+Very Mild Impairment\2 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0047614723,0.00013140512,0.30979186,0.68531525
+Very Mild Impairment\2 (34).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.000117870724,2.3229271e-05,0.0015038725,0.9983551
+Very Mild Impairment\2 (36).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019514291,5.1429146e-05,0.17160757,0.8263896
+Very Mild Impairment\2 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.007109374,0.0002378161,0.198472,0.7941808
+Very Mild Impairment\2 (58).jpg,Very Mild Impairment,No Impairment,3,2,0.0027123543,0.00014130899,0.5748154,0.42233086
+Very Mild Impairment\2 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.000511357,3.858988e-05,0.00061039365,0.9988397
+Very Mild Impairment\2 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00016500361,2.2298125e-05,0.19993564,0.79987705
+Very Mild Impairment\2 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015304114,0.000117185424,0.46229005,0.53606236
+Very Mild Impairment\2.jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013254068,9.1626265e-05,0.005585634,0.99299735
+Very Mild Impairment\20 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.124825224,0.00020752549,0.03308002,0.8418873
+Very Mild Impairment\20 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002706581,2.3571802e-05,0.0001653777,0.9995403
+Very Mild Impairment\20 (19).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00018615647,1.4125404e-05,0.0028395988,0.99696004
+Very Mild Impairment\20 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0034530994,0.00015879025,0.00990147,0.98648673
+Very Mild Impairment\20 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0032062153,0.00011521188,0.13037492,0.8663036
+Very Mild Impairment\20 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004937253,8.4654675e-05,0.004473279,0.99050474
+Very Mild Impairment\20 (32).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002845969,0.0001490515,0.24767318,0.7493318
+Very Mild Impairment\20 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003215288,7.222869e-05,0.20149317,0.7952193
+Very Mild Impairment\20 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0026914957,0.00013122219,0.07160453,0.92557275
+Very Mild Impairment\20 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.15870067,0.0005052196,0.009365372,0.8314287
+Very Mild Impairment\20 (49).jpg,Very Mild Impairment,No Impairment,3,2,0.000882267,2.3217066e-05,0.6023163,0.3967782
+Very Mild Impairment\20 (5).jpg,Very Mild Impairment,No Impairment,3,2,0.053471792,0.0003931296,0.5337891,0.41234595
+Very Mild Impairment\20 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013932888,2.2286262e-05,0.0008237351,0.9977606
+Very Mild Impairment\20 (55).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.40046558,0.00035298377,0.004769354,0.594412
+Very Mild Impairment\20 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00021079439,1.0256163e-05,0.04676802,0.9530109
+Very Mild Impairment\20 (6).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0006918431,0.00017842438,0.16322581,0.83590394
+Very Mild Impairment\20 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0031780018,0.00038978647,0.26649207,0.7299401
+Very Mild Impairment\20 (65).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0029603583,8.243583e-05,0.009351835,0.9876054
+Very Mild Impairment\20 (67).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.023488112,9.077103e-05,0.008418564,0.9680026
+Very Mild Impairment\20 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00034731414,4.9041177e-05,0.0062145637,0.993389
+Very Mild Impairment\20 (8).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.025911832,0.0002883914,0.07336573,0.900434
+Very Mild Impairment\21 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0018362455,0.000105841704,0.013153966,0.984904
+Very Mild Impairment\21 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016712192,0.0001865209,0.049614362,0.93348694
+Very Mild Impairment\21 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04256526,0.00039538686,0.10312126,0.8539182
+Very Mild Impairment\21 (42).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0033521354,7.4009484e-05,0.18967414,0.80689967
+Very Mild Impairment\21 (43).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00079086813,1.0833861e-05,0.041106306,0.95809203
+Very Mild Impairment\21 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.10942552,0.0002852485,0.0075330175,0.88275623
+Very Mild Impairment\21 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.011539249,0.000684623,0.036431283,0.9513448
+Very Mild Impairment\21 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.000296549,3.270662e-05,0.017055094,0.98261565
+Very Mild Impairment\22 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.005739088,8.3152074e-05,0.051253177,0.9429246
+Very Mild Impairment\22 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00020011087,1.8667492e-05,0.004641377,0.9951398
+Very Mild Impairment\22 (21).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.1264455,0.00011452062,0.009056475,0.8643835
+Very Mild Impairment\22 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00041850834,5.2602798e-05,0.0031371496,0.9963918
+Very Mild Impairment\22 (34).jpg,Very Mild Impairment,Mild Impairment,3,0,0.46272784,0.00027434892,0.16913536,0.36786246
+Very Mild Impairment\22 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.24111708,0.00016088175,0.36973092,0.38899112
+Very Mild Impairment\22 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.2697448,0.0002898423,0.02005266,0.70991266
+Very Mild Impairment\22 (46).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.055300735,0.00027723625,0.0025805826,0.9418415
+Very Mild Impairment\22 (50).jpg,Very Mild Impairment,No Impairment,3,2,0.001720874,0.0002217448,0.5361829,0.46187449
+Very Mild Impairment\22 (55).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.08609966,0.00047260761,0.03134683,0.88208085
+Very Mild Impairment\22.jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0154916225,0.000102141275,0.0059494292,0.97845685
+Very Mild Impairment\23 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0046154293,9.694876e-05,0.00594754,0.9893401
+Very Mild Impairment\23 (11).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00088652025,3.7551294e-05,0.03136896,0.96770686
+Very Mild Impairment\23 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.021010855,0.00035404085,0.21061587,0.76801926
+Very Mild Impairment\23 (19).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00014969645,8.688448e-06,0.04470948,0.9551321
+Very Mild Impairment\23 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0022124413,0.00013237266,0.051478673,0.9461765
+Very Mild Impairment\23 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0057764784,0.0008455649,0.020762004,0.972616
+Very Mild Impairment\23 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0006475521,2.2123542e-05,0.014826745,0.98450357
+Very Mild Impairment\23 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013065643,6.79092e-05,0.0178884,0.9807371
+Very Mild Impairment\23 (57).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.014298841,0.00015050647,0.10433631,0.8812143
+Very Mild Impairment\23 (6).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011711946,6.408572e-05,0.03230614,0.9664586
+Very Mild Impairment\23 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00018710876,1.700448e-05,0.0038178798,0.995978
+Very Mild Impairment\23 (67).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.006258823,5.6885667e-05,0.006739733,0.9869445
+Very Mild Impairment\23 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0009926069,6.637169e-05,0.21116138,0.7877797
+Very Mild Impairment\23 (8).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0003416761,6.144911e-05,0.026324477,0.9732723
+Very Mild Impairment\24 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00026437544,1.03968005e-05,0.0010045937,0.9987205
+Very Mild Impairment\24 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0027310248,4.0175702e-05,0.16319327,0.8340355
+Very Mild Impairment\24 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03236069,0.00021914966,0.28694052,0.68047965
+Very Mild Impairment\24 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00014770028,1.3067863e-05,0.006051273,0.99378794
+Very Mild Impairment\24 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.042961426,0.00014165012,0.34649694,0.61039996
+Very Mild Impairment\24 (19).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00089765975,4.6632587e-05,0.44602004,0.5530356
+Very Mild Impairment\24 (26).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009045906,6.1429964e-05,0.48422956,0.50666314
+Very Mild Impairment\24 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.005680117,0.00041970806,0.14991897,0.84398115
+Very Mild Impairment\24 (35).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.015665015,0.00013144125,0.014709413,0.96949416
+Very Mild Impairment\24 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014881114,3.8386577e-05,0.1296145,0.868859
+Very Mild Impairment\24 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0016757095,0.00048709507,0.0036245398,0.9942126
+Very Mild Impairment\24 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019995943,7.76606e-05,0.013149746,0.98477304
+Very Mild Impairment\24 (68).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04965743,0.00036981335,0.16382626,0.7861465
+Very Mild Impairment\24 (7).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002656587,5.5958786e-05,0.0026224311,0.99466497
+Very Mild Impairment\25 (11).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00070324284,3.5889298e-05,0.044643424,0.9546175
+Very Mild Impairment\25 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.06048795,0.00015025765,0.29345086,0.64591086
+Very Mild Impairment\25 (18).jpg,Very Mild Impairment,No Impairment,3,2,0.0024063992,4.4273576e-05,0.63008404,0.3674653
+Very Mild Impairment\25 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016136762,0.00012040239,0.081690215,0.9020527
+Very Mild Impairment\25 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0009677325,3.152589e-05,0.00027379903,0.99872696
+Very Mild Impairment\25 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03206132,0.00035696122,0.42875195,0.5388297
+Very Mild Impairment\25 (29).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.020224217,0.00014611668,0.028073544,0.9515562
+Very Mild Impairment\25 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003098851,3.32271e-05,0.3445738,0.6522941
+Very Mild Impairment\25 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.45170107,0.0003088088,0.025949165,0.52204096
+Very Mild Impairment\25 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0036546674,6.8136236e-05,0.009359133,0.9869181
+Very Mild Impairment\25 (43).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0063354066,0.00010621154,0.05691443,0.93664396
+Very Mild Impairment\25 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0003768741,0.00010451135,0.00068448763,0.998834
+Very Mild Impairment\25 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009181329,0.000105320665,0.04495137,0.945762
+Very Mild Impairment\25 (47).jpg,Very Mild Impairment,No Impairment,3,2,0.0026823774,0.00024900652,0.52280366,0.474265
+Very Mild Impairment\25 (48).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011113768,5.3471354e-05,0.033222012,0.96561325
+Very Mild Impairment\25 (50).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.012959888,0.00015339055,0.43308154,0.55380523
+Very Mild Impairment\25 (57).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.07350982,0.00021575861,0.0741022,0.8521722
+Very Mild Impairment\25 (58).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007260271,8.36171e-06,0.00022620342,0.99903935
+Very Mild Impairment\25 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016204687,0.00022373635,0.002468149,0.9811034
+Very Mild Impairment\25 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.059195746,0.00016338391,0.12986034,0.8107805
+Very Mild Impairment\25 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0044591175,0.00017100634,0.041144468,0.95422536
+Very Mild Impairment\25 (7).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0049377577,0.00038671502,0.2852749,0.7094006
+Very Mild Impairment\25 (70).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002424225,9.167792e-05,0.0481684,0.9493157
+Very Mild Impairment\26 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00048006428,5.2692012e-05,0.08847401,0.9109933
+Very Mild Impairment\26 (14).jpg,Very Mild Impairment,No Impairment,3,2,0.004207774,3.850228e-05,0.902767,0.09298677
+Very Mild Impairment\26 (2).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002096873,5.0761784e-05,0.09048982,0.90924966
+Very Mild Impairment\26 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.051394362,0.0012480463,0.13930249,0.8080551
+Very Mild Impairment\26 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00045995982,4.959829e-05,0.12219713,0.8772933
+Very Mild Impairment\26 (34).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0035896846,5.9792983e-05,0.001465474,0.9948851
+Very Mild Impairment\26 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002514567,5.379584e-05,0.26031455,0.7371171
+Very Mild Impairment\26 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.14392193,0.00026958762,0.009939496,0.84586895
+Very Mild Impairment\26 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004889815,5.1476665e-05,0.0003471832,0.9947115
+Very Mild Impairment\26 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0020128512,8.484155e-05,0.2660634,0.7318389
+Very Mild Impairment\26 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04024656,0.00012151154,0.43790102,0.52173084
+Very Mild Impairment\26 (67).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.3806536,0.00021947405,0.08631484,0.5328121
+Very Mild Impairment\27 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00046910634,9.0159374e-05,0.40192255,0.5975182
+Very Mild Impairment\27 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,7.2814386e-05,1.0889351e-05,0.00048986444,0.9994265
+Very Mild Impairment\27 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00023166681,8.057357e-06,0.002544597,0.99721575
+Very Mild Impairment\27 (21).jpg,Very Mild Impairment,No Impairment,3,2,0.00457232,8.919148e-05,0.6883132,0.30702528
+Very Mild Impairment\27 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015748374,5.9713133e-05,0.0057487097,0.99261683
+Very Mild Impairment\27 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015538728,3.639707e-05,0.0004522196,0.9979575
+Very Mild Impairment\27 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0020134128,5.4689444e-05,0.000977406,0.99695456
+Very Mild Impairment\27 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011608343,1.0677524e-05,0.00029811444,0.9985304
+Very Mild Impairment\27 (36).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.19484517,0.00022590421,0.018217724,0.7867112
+Very Mild Impairment\27 (39).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0019012934,3.1751646e-05,0.33413967,0.66392726
+Very Mild Impairment\27 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.02790781,0.00015370527,0.3621207,0.6098178
+Very Mild Impairment\27 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.014083703,0.00027176767,0.1709207,0.8147238
+Very Mild Impairment\27 (62).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0030053682,3.266332e-05,0.00045245345,0.99650955
+Very Mild Impairment\27 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003203019,0.00011089557,0.37740666,0.6192794
+Very Mild Impairment\28 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015285157,4.0787225e-05,0.013969692,0.984461
+Very Mild Impairment\28 (26).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.006088135,4.6367488e-05,0.032254625,0.9616109
+Very Mild Impairment\28 (32).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.028053071,0.0001789561,0.0008437873,0.9709242
+Very Mild Impairment\28 (46).jpg,Very Mild Impairment,Mild Impairment,3,0,0.7835397,0.00032735395,0.19409253,0.022040386
+Very Mild Impairment\28 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0025675967,5.9172868e-05,0.14907119,0.84830207
+Very Mild Impairment\28 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00038407798,2.381429e-05,0.000684873,0.99890727
+Very Mild Impairment\28 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0027660956,0.00013785616,0.40250987,0.5945862
+Very Mild Impairment\28 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014645362,3.9011218e-05,0.25166753,0.7468289
+Very Mild Impairment\28 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.014184435,9.117079e-05,0.16557632,0.8201481
+Very Mild Impairment\28 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.11793456,0.00024824496,0.008704266,0.87311286
+Very Mild Impairment\29 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00017541823,3.6782225e-05,0.022517625,0.9772701
+Very Mild Impairment\29 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,7.6994955e-05,7.900338e-06,0.014316057,0.98559904
+Very Mild Impairment\29 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.008946802,9.76825e-05,0.1949667,0.79598886
+Very Mild Impairment\29 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004922893,0.00012448835,0.4495159,0.5454367
+Very Mild Impairment\29 (53).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.2152882,0.00013775667,0.14370374,0.6408703
+Very Mild Impairment\29 (61).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.20188387,0.00027480102,0.06732975,0.73051155
+Very Mild Impairment\29 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.000855724,6.124986e-05,0.48584366,0.5132394
+Very Mild Impairment\29 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0012733301,5.697317e-05,0.119833015,0.87883675
+Very Mild Impairment\29 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.16379103,0.00030019498,0.26397324,0.57193553
+Very Mild Impairment\29 (8).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.005512195,5.2749972e-05,0.22071199,0.773723
+Very Mild Impairment\29 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.020070693,0.00017239478,0.025064364,0.95469254
+Very Mild Impairment\3 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.023212392,0.0029810022,0.04547563,0.9283309
+Very Mild Impairment\3 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0015762306,6.599258e-05,0.4120039,0.5863539
+Very Mild Impairment\3 (31).jpg,Very Mild Impairment,No Impairment,3,2,0.00073567533,7.3267765e-05,0.6105028,0.3886883
+Very Mild Impairment\3 (33).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0057702037,0.00022683232,0.006880025,0.9871229
+Very Mild Impairment\3 (36).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0070967213,0.00010221847,0.003237571,0.9895636
+Very Mild Impairment\3 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.021705262,0.00023912457,0.34175855,0.63629705
+Very Mild Impairment\3 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03313339,0.000159666,0.02567549,0.94103146
+Very Mild Impairment\3 (49).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0004816753,1.718114e-05,0.00046940372,0.9990317
+Very Mild Impairment\3 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00051072193,2.258381e-05,0.027239088,0.9722277
+Very Mild Impairment\3 (58).jpg,Very Mild Impairment,No Impairment,3,2,0.0058617215,9.188238e-05,0.549991,0.44405538
+Very Mild Impairment\3 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00068964355,3.0511568e-05,0.000709293,0.99857056
+Very Mild Impairment\3 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0005274815,5.6405534e-05,0.15681288,0.8426033
+Very Mild Impairment\3 (66).jpg,Very Mild Impairment,No Impairment,3,2,0.0021612009,9.542551e-05,0.932675,0.065068394
+Very Mild Impairment\30 (10).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00043620268,5.4816577e-05,0.031716384,0.96779263
+Very Mild Impairment\30 (11).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016092505,8.5239844e-05,0.3227542,0.6610681
+Very Mild Impairment\30 (12).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0009771998,4.293361e-05,0.22339077,0.77558905
+Very Mild Impairment\30 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013494663,8.430683e-05,0.0026368182,0.9959294
+Very Mild Impairment\30 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.06384511,0.00036289464,0.025163177,0.9106289
+Very Mild Impairment\30 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,7.339982e-05,7.834058e-06,0.03308888,0.9668299
+Very Mild Impairment\30 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0010172682,3.91557e-05,0.014403808,0.9845398
+Very Mild Impairment\30 (26).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00064884726,1.7015827e-05,0.025414284,0.97391987
+Very Mild Impairment\30 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0009172081,7.5786826e-05,0.0057364926,0.9932706
+Very Mild Impairment\30 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.002943335,9.174061e-05,0.27140263,0.72556233
+Very Mild Impairment\30 (39).jpg,Very Mild Impairment,No Impairment,3,2,0.0423097,0.00012162349,0.5078466,0.44972205
+Very Mild Impairment\30 (43).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.07998985,0.00032915318,0.016047498,0.9036335
+Very Mild Impairment\30 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014083441,0.00010234535,0.38500923,0.6134801
+Very Mild Impairment\30 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00043242407,1.4804078e-05,0.0017151833,0.99783766
+Very Mild Impairment\30 (51).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009802069,0.00013053816,0.020300873,0.9697666
+Very Mild Impairment\30 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.02082032,0.00017395843,0.37878487,0.6002208
+Very Mild Impairment\30 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.016237797,9.38941e-05,0.018899655,0.9647687
+Very Mild Impairment\30 (62).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0023983666,8.2445986e-05,0.045094125,0.9524251
+Very Mild Impairment\30 (69).jpg,Very Mild Impairment,Mild Impairment,3,0,0.42090473,0.0002734543,0.31566852,0.26315337
+Very Mild Impairment\30 (7).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.011225069,0.00014582189,0.17703223,0.8115969
+Very Mild Impairment\31 (12).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00093440374,0.00013522494,0.23916307,0.7597673
+Very Mild Impairment\31 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0018890314,9.6467695e-05,0.008352431,0.98966205
+Very Mild Impairment\31 (35).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.028533537,0.00013950418,0.054550968,0.916776
+Very Mild Impairment\31 (4).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007595784,2.824782e-05,0.0003857683,0.9988264
+Very Mild Impairment\31 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00096396485,4.7457565e-05,0.05042051,0.94856805
+Very Mild Impairment\31 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.081142955,0.00022467408,0.028468657,0.8901637
+Very Mild Impairment\31 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0069359345,0.00020599531,0.36527404,0.627584
+Very Mild Impairment\31 (70).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.007791566,0.00010154635,0.0043226057,0.98778427
+Very Mild Impairment\32 (10).jpg,Very Mild Impairment,No Impairment,3,2,0.0009274966,0.00010084979,0.807172,0.19179961
+Very Mild Impairment\32 (13).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0028775982,9.1234644e-05,0.02130223,0.975729
+Very Mild Impairment\32 (18).jpg,Very Mild Impairment,No Impairment,3,2,0.0514171,5.8822297e-05,0.66396415,0.28455997
+Very Mild Impairment\32 (20).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0013121332,4.0295676e-05,0.20683138,0.7918162
+Very Mild Impairment\32 (27).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.035452828,0.0003020269,0.014222522,0.9500226
+Very Mild Impairment\32 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.26285276,0.000110620946,0.0010474615,0.73598915
+Very Mild Impairment\32 (31).jpg,Very Mild Impairment,Mild Impairment,3,0,0.8250567,0.0001761483,0.0055609886,0.16920613
+Very Mild Impairment\32 (34).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0027719482,0.00022873058,0.27566934,0.72133
+Very Mild Impairment\32 (36).jpg,Very Mild Impairment,Mild Impairment,3,0,0.74259394,0.0002665294,0.012732479,0.24440703
+Very Mild Impairment\32 (38).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.1313787,0.00010822907,0.3999605,0.46855253
+Very Mild Impairment\32 (49).jpg,Very Mild Impairment,No Impairment,3,2,0.00033798467,5.1107414e-05,0.8636988,0.13591212
+Very Mild Impairment\32 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.09763893,0.00020826282,0.009539318,0.89261353
+Very Mild Impairment\32 (56).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04295328,0.00035651025,0.39248106,0.56420916
+Very Mild Impairment\32 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.05687067,0.00025010895,0.32175976,0.6211194
+Very Mild Impairment\32 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04306058,0.0006426313,0.14447327,0.8118235
+Very Mild Impairment\32 (69).jpg,Very Mild Impairment,Mild Impairment,3,0,0.49111885,0.0007035886,0.020835293,0.48734227
+Very Mild Impairment\32 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04510637,0.0011026834,0.014702497,0.93908846
+Very Mild Impairment\4 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.04608228,9.735385e-05,0.4363863,0.517434
+Very Mild Impairment\4 (16).jpg,Very Mild Impairment,No Impairment,3,2,0.0005189466,2.2310316e-05,0.7045723,0.2948864
+Very Mild Impairment\4 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00016808746,8.536456e-06,0.0011255657,0.99869776
+Very Mild Impairment\4 (21).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0010756818,0.00033910805,0.38050598,0.61807925
+Very Mild Impairment\4 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0010831913,3.504211e-05,0.104394615,0.8944871
+Very Mild Impairment\4 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.033436775,0.000383401,0.000751125,0.9654287
+Very Mild Impairment\4 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00038472904,2.5163006e-05,0.33627844,0.6633116
+Very Mild Impairment\4 (31).jpg,Very Mild Impairment,No Impairment,3,2,0.0010246513,9.4495605e-05,0.6166352,0.38224572
+Very Mild Impairment\4 (39).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014301906,7.9952435e-05,0.0016070862,0.99688274
+Very Mild Impairment\4 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003439435,0.00018666487,0.4554541,0.5409198
+Very Mild Impairment\4 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.02566545,0.00032188403,0.014375943,0.9596367
+Very Mild Impairment\4 (48).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.029290397,9.544283e-05,0.018648852,0.95196533
+Very Mild Impairment\4 (58).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.005285119,9.598449e-05,0.18923509,0.80538386
+Very Mild Impairment\4 (6).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00077009137,0.000114490824,0.37762946,0.6214859
+Very Mild Impairment\4 (66).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00539696,0.00017824027,0.4246683,0.5697565
+Very Mild Impairment\4 (68).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0012964883,0.00012060548,0.01083904,0.98774385
+Very Mild Impairment\4 (8).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0023211015,9.940617e-05,0.33311763,0.6644618
+Very Mild Impairment\4 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,6.877225e-05,8.427232e-06,0.00093662227,0.99898624
+Very Mild Impairment\5 (12).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0035639224,9.788827e-05,0.00070338673,0.99563485
+Very Mild Impairment\5 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.030571604,0.00025443506,0.0013572688,0.9678167
+Very Mild Impairment\5 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00912351,0.00012104632,0.06567189,0.92508364
+Very Mild Impairment\5 (29).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0002411759,1.6065165e-05,2.7582611e-05,0.99971515
+Very Mild Impairment\5 (32).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00094289053,7.601263e-05,0.014217168,0.9847639
+Very Mild Impairment\5 (44).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.011822075,0.0005527829,0.023744073,0.963881
+Very Mild Impairment\5 (49).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.001385377,9.60164e-05,0.20572326,0.79279536
+Very Mild Impairment\5 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014401429,6.779091e-05,0.0002752511,0.9982168
+Very Mild Impairment\5 (64).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0009028604,4.8588558e-05,0.2222217,0.77682686
+Very Mild Impairment\5 (67).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0043205125,3.6141148e-05,0.060018897,0.9356245
+Very Mild Impairment\5 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,9.640297e-05,8.551006e-06,0.1592174,0.8406776
+Very Mild Impairment\6 (3).jpg,Very Mild Impairment,No Impairment,3,2,0.0010434026,8.979008e-05,0.62617606,0.37269074
+Very Mild Impairment\6 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00070491654,1.6841692e-05,0.00048893725,0.9987893
+Very Mild Impairment\6 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004656154,0.00022846236,0.031070605,0.96404475
+Very Mild Impairment\6 (46).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011319763,1.9261042e-05,0.00035526982,0.99849355
+Very Mild Impairment\6 (53).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00054072094,1.7684195e-05,0.0008941952,0.9985474
+Very Mild Impairment\6 (54).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.004819182,0.00054034137,0.0028608574,0.9917796
+Very Mild Impairment\6 (58).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00078522926,1.4168874e-05,0.009546876,0.98965377
+Very Mild Impairment\6 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00974885,5.2685697e-05,0.0009079365,0.98929054
+Very Mild Impairment\6 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.014442019,6.120633e-05,0.0005285755,0.9849682
+Very Mild Impairment\6 (61).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007358943,2.4134697e-05,0.00047338527,0.9987666
+Very Mild Impairment\6 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003151795,7.98248e-05,0.20187776,0.7948906
+Very Mild Impairment\6 (65).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00082201295,4.1290976e-05,0.17036808,0.8287686
+Very Mild Impairment\6 (69).jpg,Very Mild Impairment,No Impairment,3,2,0.000902949,8.3610685e-05,0.7951926,0.20382087
+Very Mild Impairment\6 (9).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00028254028,1.5748266e-05,0.013940968,0.9857607
+Very Mild Impairment\7 (11).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.018668104,3.9816932e-05,0.0075640134,0.97372806
+Very Mild Impairment\7 (14).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.011757767,0.00014053844,0.20159082,0.7865108
+Very Mild Impairment\7 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0006341722,1.8702913e-05,0.017176272,0.9821709
+Very Mild Impairment\7 (19).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00033890735,2.455185e-05,0.012176661,0.98745984
+Very Mild Impairment\7 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00035559828,2.1186474e-05,0.003428834,0.99619436
+Very Mild Impairment\7 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.01064883,7.996192e-05,0.37777132,0.61149985
+Very Mild Impairment\7 (29).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.09977338,0.00012499632,0.00057332526,0.8995283
+Very Mild Impairment\7 (3).jpg,Very Mild Impairment,No Impairment,3,2,0.0007328143,0.00011339005,0.54473716,0.45441666
+Very Mild Impairment\7 (31).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.053717874,0.0005018122,0.32286844,0.6229118
+Very Mild Impairment\7 (32).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00028835976,3.0760024e-05,0.12678376,0.87289715
+Very Mild Impairment\7 (39).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0034066313,0.00024140433,0.013671207,0.9826808
+Very Mild Impairment\7 (47).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007854486,4.2285894e-05,0.059046496,0.94012576
+Very Mild Impairment\7 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00015020769,8.730207e-06,0.0010618964,0.9987791
+Very Mild Impairment\7 (60).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.27583146,0.0004417371,0.0081912605,0.7155355
+Very Mild Impairment\7 (7).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003043314,0.00018371493,0.015371685,0.9814013
+Very Mild Impairment\8 (14).jpg,Very Mild Impairment,No Impairment,3,2,0.006514968,0.00014314638,0.5124705,0.48087144
+Very Mild Impairment\8 (16).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.003422736,0.00016391036,0.02409314,0.97232026
+Very Mild Impairment\8 (18).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0056962627,3.725368e-05,0.097130045,0.8971365
+Very Mild Impairment\8 (19).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00036987368,4.1042404e-05,0.11414381,0.88544524
+Very Mild Impairment\8 (2).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00026932574,1.2976217e-05,0.0003913397,0.9993264
+Very Mild Impairment\8 (24).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00054790004,4.7209127e-05,0.12661484,0.87279004
+Very Mild Impairment\8 (26).jpg,Very Mild Impairment,No Impairment,3,2,0.009343491,0.000147362,0.61700547,0.37350368
+Very Mild Impairment\8 (28).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.010940818,8.014818e-05,0.0040866216,0.9848925
+Very Mild Impairment\8 (3).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0001501786,1.7138178e-05,0.19818659,0.8016461
+Very Mild Impairment\8 (40).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0069404123,0.00017109679,0.0985774,0.8943111
+Very Mild Impairment\8 (55).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00093615055,6.170063e-05,0.004492172,0.99451
+Very Mild Impairment\8 (57).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0004914346,1.4414382e-05,0.00021291683,0.9992812
+Very Mild Impairment\8 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0004891874,3.267116e-05,0.00045848815,0.9990196
+Very Mild Impairment\8 (63).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0018627426,5.7429446e-05,0.27656022,0.72151965
+Very Mild Impairment\8 (68).jpg,Very Mild Impairment,No Impairment,3,2,0.00060501636,4.302964e-05,0.5176438,0.48170814
+Very Mild Impairment\8 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00095291913,0.00010160236,0.22357199,0.77537346
+Very Mild Impairment\8.jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0011677837,3.063745e-05,0.0004103728,0.9983913
+Very Mild Impairment\9 (15).jpg,Very Mild Impairment,Very Mild Impairment,3,3,9.998943e-05,7.80726e-06,0.00043033581,0.9994618
+Very Mild Impairment\9 (17).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0057981205,9.152758e-05,0.12998173,0.8641286
+Very Mild Impairment\9 (22).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0010070137,2.2145181e-05,0.15056601,0.8484049
+Very Mild Impairment\9 (23).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.009520936,5.823267e-05,0.11010281,0.880318
+Very Mild Impairment\9 (25).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.03202741,0.000452051,0.0018492287,0.96567124
+Very Mild Impairment\9 (30).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00019155431,3.5722238e-05,0.008833125,0.9909396
+Very Mild Impairment\9 (37).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.042387716,0.0002864182,0.022556636,0.9347693
+Very Mild Impairment\9 (41).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0003648217,5.0777395e-05,0.00016957331,0.9994148
+Very Mild Impairment\9 (45).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.18785365,0.0007423055,0.02703705,0.784367
+Very Mild Impairment\9 (52).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0014152199,2.5467738e-05,0.004574203,0.99398506
+Very Mild Impairment\9 (57).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0016716651,2.337022e-05,0.00054503296,0.99775994
+Very Mild Impairment\9 (59).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00047461325,3.5085053e-05,0.0009388848,0.9985515
+Very Mild Impairment\9 (62).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0007554629,7.440915e-05,0.002797183,0.9963728
+Very Mild Impairment\9 (68).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.0024035166,0.00013282936,0.29691082,0.7005528
+Very Mild Impairment\9 (69).jpg,Very Mild Impairment,Very Mild Impairment,3,3,0.00088020077,8.297469e-05,0.022223625,0.9768132

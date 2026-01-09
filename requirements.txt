@@ -17,3 +17,4 @@ shap>=0.41.0
 
 # Optional
 ipython
+pandas>=2.0.0

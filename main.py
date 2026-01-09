@@ -9,6 +9,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.utils.class_weight import compute_class_weight
 from sklearn.metrics import (accuracy_score, precision_score, recall_score, f1_score,
                             cohen_kappa_score, matthews_corrcoef, classification_report)
+import pandas as pd
 import json
 import logging
 import gc
@@ -297,6 +298,7 @@ def main():
     """Main execution function"""
     parser = argparse.ArgumentParser(description="Alzheimer's Disease Classification")
     parser.add_argument('--force-cpu', action='store_true', help='Force CPU usage instead of GPU')
+    parser.add_argument('--inference-only', action='store_true', help='Skip training and run inference on existing models')
     args = parser.parse_args()
 
     # Create all output directories
@@ -319,18 +321,29 @@ def main():
     set_random_seeds(42)  # Standard seeding
 
     try:
-        # Step 1: K-Fold Cross-Validation
-        if config.USE_KFOLD:
-            logger.info("Starting K-Fold Cross-Validation...")
-            fold_model_paths, fold_results = train_kfold_models()
+        fold_model_paths = []
+
+        # Step 1: Training or Model Loading
+        if not args.inference_only:
+            # Step 1: K-Fold Cross-Validation
+            if config.USE_KFOLD:
+                logger.info("Starting K-Fold Cross-Validation...")
+                fold_model_paths, fold_results = train_kfold_models()
+            else:
+                logger.info("K-Fold disabled. Training single model...")
+                model, base_model = build_model()
+                # Use simple training if needed, or rely on KFold as default
+                pass
         else:
-            logger.info("K-Fold disabled. Training single model...")
-            model, base_model = build_model()
-            # ... (Simple training logic could be here, but using K-Fold by default)
-            # Reusing KFold logic with 1 split is safer if needed, but for now assuming KFOLD is ON.
-            # Fallback to similar logic as train_kfold_models but just one pass if needed.
-            # For this refactor, let's stick to the generated plan which handles KFOLD.
-            pass
+            logger.info("Inference only mode enabled. Loading existing models...")
+            if os.path.exists(config.MODEL_DIR):
+                fold_model_paths = [os.path.join(config.MODEL_DIR, f) for f in os.listdir(config.MODEL_DIR) if f.endswith('.keras')]
+                fold_model_paths.sort()
+            
+            if not fold_model_paths:
+                raise FileNotFoundError(f"No models found in {config.MODEL_DIR}. Cannot run inference.")
+            
+            logger.info(f"Found {len(fold_model_paths)} models: {[os.path.basename(p) for p in fold_model_paths]}")
         
         # Step 2: Evaluate on Test Set
         logger.info(f"\n{'='*80}")
@@ -354,6 +367,29 @@ def main():
         y_pred_proba = ensemble_predict(fold_model_paths, test_generator)
         y_pred = np.argmax(y_pred_proba, axis=1)
         y_true = test_generator.classes
+
+        # --- Save Patient Predictions to CSV ---
+        logger.info("Saving patient predictions to CSV...")
+        filenames = test_generator.filenames
+        
+        # Create DataFrame
+        df_predictions = pd.DataFrame({
+            'Filename': filenames,
+            'True_Label': [index_to_class[y] for y in y_true],
+            'Predicted_Label': [index_to_class[y] for y in y_pred],
+            'True_Class_Index': y_true,
+            'Predicted_Class_Index': y_pred
+        })
+        
+        # Add probability columns
+        for i, class_name in index_to_class.items():
+            df_predictions[f'Prob_{class_name}'] = y_pred_proba[:, i]
+            
+        # Save to CSV
+        csv_path = os.path.join(config.METRICS_DIR, 'patient_predictions.csv')
+        df_predictions.to_csv(csv_path, index=False)
+        logger.info(f"Detailed predictions saved to: {csv_path}")
+        # ----------------------------------------
         
         # Calculate comprehensive metrics
         accuracy = accuracy_score(y_true, y_pred)
